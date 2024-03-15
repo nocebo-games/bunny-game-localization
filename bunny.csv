@@ -1,0 +1,524 @@
+"Key","en (English)","it (Italian)","pl (Polish)","es (Spanish)","de (German)","pt (Portuguese)","fr (French)","ja (Japanese)","ru (Russian)","tr (Turkish)","ar (Arabic)","cs (Czech)","th (Thai)","id (Indonesian)","nl (Dutch)","vi (Vietnamese)","ko (Korean)","zh-Hans (ChineseSimplified)","zh-Hant (ChineseTraditional)","lt (Lithuanian)","uk (Ukrainian)","lv (Latvian)","hi (Hindi)","el (Greek)","pt-BR (Brazilian)"
+"Easy","Easy","Facile","Łatwy","Fácil","Einfach","Fácil","Facile","簡単","Легкий","Kolay","سهل","Snadný","ง่าย","Mudah","Eenvoudig","Dễ","쉬운","简单","簡單","Lengvas","Легкий","Viegls","आसान","Εύκολος","Fácil"
+"Hard","Difficult","Difficile","Trudny","Difícil","Schwierig","Difícil","Difficile","難しい","Трудный","Zor","صعب","Obtížný","ยาก","Sulit","Moeilijk","Khó","어려운","困难","困難","Sunkus","Складний","Grūts","कठिन","Δύσκολος","Difícil"
+"Medium","Medium","Medio","Średni","Medio","Mittel","Médio","Moyen","中くらい","Средний","Orta","متوسط","Střední","ปานกลาง","Sedang","Gemiddeld","Trung bình","중간","中等","中等","Vidutinis","Середній","Vidējs","मध्यम","Μεσαίος","Médio"
+"BlizzardIncoming","Blizzard Incoming","Bufera in Arrivo","Nadciąga Zamieć","Ventisca Inminente","Blizzard im Anmarsch","Nevasca Iminente","Blizzard Imminent","吹雪接近中","Метель Надвигается","Tipi Geliyor","عاصفة ثلجية وشيكة","Blíží se Sněhová Bouře","พายุหิมะกำลังจะมา","Badai Salju Mendekat","Sneeuwstorm op Komst","Bão Tuyết Sắp Đến","눈보라 접근 중","暴风雪即将来袭","暴風雪即將來襲","Artėja Pūga","Насувається Завірюха","Tuvošanās Sniegputenis","तूफानी बर्फबारी आ रही है","Καταιγίδα Χιονιού Πλησιάζει","Nevasca se Aproximando"
+"AssassinateTraitor","Assassinate (Traitor)","Assassinare (Traditore)","Zamorduj (Zdrajca)","Asesinar (Traidor)","Verräter ermorden (Verräter)","Assassinar (Traidor)","Assassiner (Traître)","裏切り者を暗殺する (裏切り者)","Убить (Предатель)","Haini Suikast (Hain)","اغتيال (خائن)","Zavraždit (Zrádce)","ลอบสังหาร (ผู้ทรยศ)","Membunuh (Pengkhianat)","Vermoorden (Verrader)","Ám sát (Kẻ Phản Bội)","배신자 암살하기 (배신자)","暗杀 (叛徒)","暗殺 (叛徒)","Nužudyti (Išdavikas)","Вбивство (Зрадник)","Nogalināt (Nodevējs)","हत्या करना (गद्दार)","Δολοφονία (Προδότης)","Assassinar (Traidor)"
+"Attack","Attack","Attacca","Atakuj","Ataca","Angriff","Ataca","Attaque","攻撃せよ","Атакуй","Saldır","هاجم","Útoč","โจมตี","Serang","Val aan","Tấn công","공격해","进攻","攻擊","Pulti","Нападай","Uzbrūk","हमला करो","Επιτέθηκε","Ataque"
+"Dash","Dash","Scatto","Błyskawiczny ruch","Teletransporte","Blitzbewegung","Teletransporte","Téléportation rapide","瞬間移動","Мгновенное перемещение","Anlık Hareket","التحرك السريع","Bleskový pohyb","เคลื่อนที่อย่างรวดเร็ว","Gerakan Cepat","Flitssprong","Chuyển động Nhanh","순간 이동","瞬间移动","瞬間移動","Žaibiškas judėjimas","Миттєвий рух","Ātrs kustības","त्वरित गति","Αστραπιαία κίνηση","Movimento Rápido"
+"Interact","Interact","Interagisci","Wchodź w interakcje","Interactuar","Interagiere","Interaja","Interagis","やり取りする","Взаимодействуй","Etkileşimde bulun","تفاعل","Interaguj","โต้ตอบ","Bertindak","Interactie","Tương tác","상호 작용하라","互动","互動","Sąveikauk","Взаємодій","Interaktē","बातचीत करें","Αλληλεπίδρασε","Interaja"
+"LobbyDetails","Lobby Details","Dettagli della Lobby","Szczegóły Lobby","Detalles del Lobby","Lobby-Details","Detalhes do Lobby","Détails du Lobby","ロビーの詳細","Лобби Детали","Lobi Detayları","تفاصيل الردهة","Podrobnosti Lobby","รายละเอียดล็อบบี้","Rincian Lobi","Lobbygegevens","Chi Tiết Phòng Chờ","로비 세부사항","大厅详情","大廳詳情","Lobio Informacija","Лобі Деталі","Lobija Detaļas","लॉबी विवरण","Λεπτομέρειες Λόμπι","Detalhes do Lobby"
+"Move","Move","Muoviti","Poruszanie","Muévete","Bewegen","Mover-se","Déplace-toi","動け","Перемещение","Hareket","تحرك","Pohyb","การเคลื่อนไหว","Bergerak","Bewegen","Di chuyển","이동","移动","移動","Judėti","Рухатися","Kustība","चाल","Κίνηση","Mover-se"
+"MustBeBehindTarget","(Must be behind target)","(Devi essere dietro al bersaglio)","(Musisz być za celem)","(Debe estar detrás del objetivo)","(Muss hinter dem Ziel sein)","(Deve estar atrás do alvo)","(Doit être derrière la cible)","(ターゲットの後ろにいなければならない)","(Должен быть за целью)","(Hedefin arkasında olmalı)","(يجب أن تكون خلف الهدف)","(Musí být za cílem)","(ต้องอยู่ด้านหลังเป้าหมาย)","(Harus berada di belakang target)","(Moet achter het doelwit zijn)","(Phải đứng sau mục tiêu)","(목표 뒤에 있어야 함)","(必须在目标后面)","(必須在目標後面)","(Privalo būti už taikinio)","(Має бути за ціллю)","(Jābūt aiz mērķa)","(लक्ष्य के पीछे होना चाहिए)","(Πρέπει να είσαι πίσω από τον στόχο)","(Deve estar atrás do alvo)"
+"PushToTalk","Push to Talk","Premi per Parlare","Naciśnij, aby mówić","Pulsar para hablar","Drücken, um zu sprechen","Pressionar para falar","Appuyez pour parler","話すために押す","Нажми, чтобы говорить","Konuşmak için Bas","اضغط للتحدث","Stiskni pro mluvení","กดเพื่อพูด","Tekan untuk Berbicara","Druk om te praten","Nhấn để nói","말하기 위해 누르세요","按下说话","按下講話","Paspauskite, kad kalbėtumėte","Натисни, щоб говорити","Nospied, lai runātu","बात करने के लिए दबाएं","Πατήστε για να μιλήσετε","Pressione para falar"
+"TraitorAssassinate","(Traitor) Assassinate","(Traditore) Assassinare","(Zdrajca) Zamorduj","(Traidor) Asesinar","(Verräter) Ermorden","(Traidor) Assassinar","(Traître) Assassiner","(裏切り者) 暗殺する","(Предатель) Убить","(Hain) Suikast","(خائن) اغتيال","(Zrádce) Zavraždit","(ผู้ทรยศ) ลอบสังหาร","(Pengkhianat) Membunuh","(Verrader) Vermoorden","(Kẻ Phản Bội) Ám sát","(배신자) 암살","(叛徒) 暗杀","(叛徒) 暗殺","(Išdavikas) Nužudyti","(Зрадник) Вбивство","(Nodevējs) Nogalināt","(गद्दार) हत्या","(Προδότης) Δολοφονία","(Traidor) Assassinar"
+"DevelopersNote","Developer's note","Nota dello sviluppatore","Notatka twórcy","Nota del desarrollador","Entwicklerhinweis","Nota do desenvolvedor","Note du développeur","開発者の注記","Разработчика примечание","Geliştirici notu","ملاحظة المطور","Poznámka vývojáře","บันทึกของผู้พัฒนา","Catatan pengembang","Ontwikkelaarsnota","Ghi chú của nhà phát triển","개발자 노트","开发者备注","開發者備註","Kūrėjo pastaba","Примітка розробника","Izstrādātāja piezīme","डेवलपर्स नोट","Σημείωση του προγραμματιστή","Nota do desenvolvedor"
+"Bridge","Bridge","Ponte","Most","Puente","Brücke","Ponte","Pont","橋","Мост","Köprü","جسر","Most","สะพาน","Jembatan","Brug","Cầu","다리","桥","橋","Tiltas","Міст","Tilts","पुल","Γέφυρα","Ponte"
+"InnocentsWin","Innocents Win","Gli innocenti vincono","Niewinni wygrywają","Los inocentes ganan","Unschuldige gewinnen","Inocentes ganham","Les innocents gagnent","無実者が勝つ","Невиновные выигрывают","Masumlar Kazanır","الأبرياء يفوزون","Nevinní vyhrávají","ผู้บริสุทธิ์ชนะ","Orang tak bersalah menang","Onschuldigen winnen","Người vô tội thắng","무고한 이들이 이김","无辜者赢","無辜者贏","Nekaltie laimėjo","Невинні перемагають","Nevainīgie uzvar","मासूम जीते","Οι Αθώοι Κερδίζουν","Inocentes vencem"
+"LeaveParty","Leave Party","Lascia la festa","Opuść Grupę","Dejar la fiesta","Party verlassen","Deixar a festa","Quitter la fête","パーティーを去る","Покинуть вечеринку","Partiden Ayrıl","ترك الحفلة","Opustit párty","ออกจากปาร์ตี้","Tinggalkan Pesta","Feest verlaten","Rời bữa tiệc","파티 탈퇴","离开派对","離開派對","Palikti šventę","Залишити вечірку","Atstāt ballīti","छोड़ दो पार्टी","Αφήστε το Πάρτι","Deixar a festa"
+"Options","Options","Opzioni","Opcje","Opciones","Optionen","Opções","Options","オプション","Настройки","Seçenekler","خيارات","Nastavení","ตัวเลือก","Pilihan","Opties","Tùy chọn","옵션","选项","選項","Pasirinkimai","Опції","Iespējas","विकल्प","Επιλογές","Opções"
+"Quit","Quit","Esci","Wyjdź","Salir","Beenden","Sair","Quitter","終了","Выйти","Çık","الخروج","Ukončit","ออก","Keluar","Afsluiten","Thoát","나가기","退出","退出","Išeiti","Вийти","Iziet","बंद करें","Έξοδος","Sair"
+"ReturnHome","Return Home","Torna a casa","Wróć do domu","Volver a casa","Nach Hause zurückkehren","Voltar para casa","Retourner à la maison","帰宅","Вернуться домой","Eve Dön","العودة للمنزل","Vrátit se domů","กลับบ้าน","Kembali ke rumah","Terug naar huis","Quay về nhà","집으로 돌아가기","返回家园","返回家園","Grįžti namo","Повернутися додому","Atgriezties mājās","घर लौटें","Επιστροφή Σπίτι","Voltar para casa"
+"TraitorsWin","Traitors Win","I traditori vincono","Zdrajcy wygrywają","Los traidores ganan","Verräter gewinnen","Traidores ganham","Les traîtres gagnent","裏切り者が勝つ","Предатели выигрывают","Hainler Kazanır","الخونة يفوزون","Zrádci vyhrávají","คนทรยศชนะ","Pengkhianat menang","Verraders winnen","Kẻ phản bội thắng","배신자가 이김","叛徒赢了","叛徒贏了","Išdavikai laimėjo","Зрадники перемагають","Nodevēji uzvar","विश्वासघाती जीते","Οι Προδότες Κερδίζουν","Traidores vencem"
+"ViewControls","View Controls","Visualizza Controlli","Pokaż sterowanie","Ver Controles","Steuerung anzeigen","Ver Controlos","Afficher les commandes","コントロールを表示","Управление","Kontrolleri Görüntüle","عرض التحكم","Zobrazit ovládání","ดูการควบคุม","Lihat Kontrol","Besturing bekijken","Xem điều khiển","컨트롤 보기","查看控制","查看控制","Valdymo peržiūra","Керування","Kontroles skats","नियंत्रण देखें","Δείτε τον έλεγχο","Visualizar controles"
+"YOU SURVIVED","YOU SURVIVED","HAI SOPRAVVIVUTO","PRZEŻYŁEŚ","HAS SOBREVIVIDO","DU HAST ÜBERLEBT","VOCÊ SOBREVIVEU","VOUS AVEZ SURVÉCU","生き残った","ВЫ ВЫЖИЛИ","HAYATTA KALDIN","لقد نجوت","PŘEŽIL JSI","คุณรอดชีวิต","KAMU SELAMAT","JE HEBT OVERLEEFD","BẠN ĐÃ SỐNG SÓT","생존했습니다","你活下来了","你活下來了","Jūs išgyvenote","ВИ ВИЖИЛИ","Tu izdzīvoji","तुम बच गए","ΕΣΥ ΕΠΙΒΙΩΣΕΣ","VOCÊ SOBREVIVEU"
+"Apple","Apple","Mela","Jabłko","Manzana","Apfel","Maçã","Pomme","りんご","Яблоко","Elma","تفاحة","Jablko","แอปเปิ้ล","Apel","Appel","Táo","사과","苹果","蘋果","Obuolys","Яблуко","Ābols","सेब","Μήλο","Maçã"
+"Arcade Machine","Arcade Machine","Macchina arcade","Automat do gier","Máquina de arcade","Spielautomat","Máquina de arcade","Machine d'arcade","アーケードマシン","Игровой автомат","Arcade Makinesi","آلة ألعاب الفيديو","Herní automat","เครื่องเกมส์อาร์เคด","Mesin arcade","Arcadeautomaat","Máy trò chơi điện tử","아케이드 머신","街机","街機","Arcadinė mašina","Аркадна машина","Arcādes mašīna","वीडियो गेम मशीन","Μηχάνημα Αρκέιντ","Máquina de arcade"
+"Axe","Axe","Ascia","Siekiera","Hacha","Axt","Machado","Hache","斧","Топор","Balta","فأس","Sekera","ขวาน","Kapak","Bijl","Rìu","도끼","斧头","斧頭","Kirvis","Сокира","Cirvis","कुल्हाड़ी","Τσεκούρι","Machado"
+"Berries","Berries","Bacche","Jagody","Bayas","Beeren","Frutos silvestres","Baies","ベリー","Ягоды","Yaban Meyveleri","توت","Bobule","ผลไม้ป่า","Buah beri","Bessen","Quả mâm xôi","베리","浆果","漿果","Uogos","Ягоди","Ogļi","बेरी","Φρούτα του δάσους","Frutas silvestres"
+"Burrow","Burrow","Tana","Nora","Madriguera","Bau","Toca","Terrier","穴","Кротовая нора","Yuva","جحر","Nora","รูหนอน","Lubang","Hol","Hang","굴","洞穴","洞穴","Urvas","Нора","Ala","बिल","Φωλιά","Toca"
+"Carrot","Carrot","Carota","Marchew","Zanahoria","Karotte","Cenoura","Carotte","にんじん","Морковь","Havuç","جزر","Mrkev","แครอท","Wortel","Wortel","Cà rốt","당근","胡萝卜","胡蘿蔔","Morka","Морква","Burkāns","गाजर","Καρότο","Cenoura"
+"Color","Color","Colore","Kolor","Color","Farbe","Cor","Couleur","色","Цвет","Renk","لون","Barva","สี","Warna","Kleur","Màu sắc","색상","颜色","顏色","Spalva","Колір","Krāsa","रंग","Χρώμα","Cor"
+"Corpse","Corpse","Cadavere","Trup","Cadáver","Leiche","Cadáver","Cadavre","死体","Труп","Ceset","جثة","Mrtvola","ศพ","Mayat","Lijk","Xác chết","시체","尸体","屍體","Lavonas","Труп","Līķis","शव","Πτώμα","Cadáver"
+"Escape","Escape","Fuga","Ucieczka","Huida","Flucht","Fuga","Évasion","逃走","Побег","Kaçış","هروب","Útěk","หนี","Pelarian","Ontsnapping","Thoát","탈출","逃脱","逃脫","Pabėgimas","Втеча","Bēgšana","भाग जाना","Διαφυγή","Fuga"
+"Hat","Farmer's hat","Cappello da contadino","Kapelusz rolnika","Sombrero de granjero","Bauernhut","Chapéu de fazendeiro","Chapeau de fermier","農夫の帽子","Фермерская шляпа","Çiftçi şapkası","قبعة المزارع","Klobouk farmáře","หมวกชาวนา","Topi petani","Boerenhoed","Nón nông dân","농부의 모자","农夫的帽子","農夫的帽子","Ūkininko skrybėlė","Фермерський капелюх","Zemnieka cepure","किसान की टोपी","Καπέλο αγρότη","Chapéu de fazendeiro"
+"Hatchet","Weapon","Arma","Broń","Arma","Waffe","Arma","Arme","武器","Оружие","Silah","سلاح","Zbraň","อาวุธ","Senjata","Wapen","Vũ khí","무기","武器","武器","Ginklas","Зброя","Ierocis","हथियार","Όπλο","Arma"
+"Junk","Junk","Rottame","Śmieci","Basura","Schrott","Lixo","Déchets","ジャンク","Мусор","Çöp","خردة","Odpad","ขยะ","Sampah","Afval","Rác","쓰레기","垃圾","垃圾","Šlamstas","Відходи","Atkritumi","कचरा","Σκουπίδια","Lixo"
+"NoSpade","Requires Spade","Richiede Vanga","Wymaga Łopaty","Requiere Pala","Schaufel benötigt","Requer Pá","Nécessite une Bêche","スコップが必要","Требуется Лопата","Kürek Gerektirir","يتطلب مجرفة","Vyžaduje Rýč","ต้องใช้พลั่ว","Membutuhkan Sekop","Schop Vereist","Cần Xẻng","삽 필요","需要铲子","需要鏟子","Reikalingas Kastuvas","Потрібна Лопата","Nepieciešams Lāpsta","स्पेड की आवश्यकता है","Απαιτεί Φτυάρι","Requer Pá"
+"Open","Open","Apri","Otwórz","Abrir","Öffnen","Abrir","Ouvrir","開く","Открыть","Aç","فتح","Otevřít","เปิด","Buka","Openen","Mở","열기","打开","打開","Atidaryti","Відкрити","Atvērt","खोलें","Άνοιγμα","Abrir"
+"Parsnip","Parsnip","Pastinaca","Pasternak","Chirivía","Pastinake","Chirivia","Panais","パースニップ","Пастернак","Kereviz","جزر بري","Paškvica","หัวไชเท้า","Parsnip","Pastinaak","Cà đuôi chồn","파스닙","防风","防風","Pastarnokas","Пастернак","Pastināks","मूली","Παστινάκι","Pastinaga"
+"Party Settings","Server Settings","Impostazioni Party","Ustawienia serwera","Configuración de la fiesta","Party-Einstellungen","Configurações de festa","Paramètres du groupe","パーティ設定","Настройки сервера","Parti Ayarları","إعدادات الحفلة","Nastavení párty","การตั้งค่าปาร์ตี้","Pengaturan Pesta","Feestinstellingen","Cài đặt Tiệc","파티 설정","组队设置","組隊設定","Partijos nustatymai","Налаштування сервера","Partijas iestatījumi","पार्टी सेटिंग्स","Ρυθμίσεις Ομάδας","Configurações de Festa"
+"Plank","Plank","Tavola","Deska","Tabla","Diele","Tábua","Planche","板","Доска","Tahta","لوح","Prkno","ไม้","Papan","Plank","Tấm gỗ","판자","木板","木板","Lenta","Дошка","Dēlis","लकड़ी की पट्टी","Σανίδα","Prancha"
+"Planks","Planks","Tavole","Deski","Tablas","Dielen","Tábuas","Planches","板材","Доски","Tahtalar","ألواح","Prkna","ไม้หลายชิ้น","Papan-papan","Planken","Tấm gỗ","판자들","木板们","木板們","Lentos","Дошки","Dēļi","लकड़ी की पट्टियां","Σανίδες","Pranchas"
+"Radish","Radish","Ravanello","Rzodkiewka","Rábano","Radieschen","Rabanete","Radis","ラディッシュ","Редис","Turp","فجل","Rředkvička","หัวลำไย","Lobak merah","Radijs","Củ cải đỏ","무","小萝卜","小蘿蔔","Ridikas","Редька","Redīss","मूली","Ραπανάκι","Rabanete"
+"Skin","Skin","Pelle","Skórka","Piel","Haut","Pele","Peau","スキン","Скин","Deri","جلد","Kůže","สกิน","Kulit","Huid","Da","스킨","皮肤","皮膚","Oda","Шкіра","Āda","त्वचा","Δέρμα","Pele"
+"Spade","Spade","Vanga","Łopata","Pala","Schaufel","Pá","Bêche","スコップ","Лопата","Kürek","مجرفة","Rýč","พลั่ว","Sekop","Schop","Xẻng","삽","铲子","鏟子","Kastuvas","Лопата","Lāpsta","स्पेड","Φτυάρι","Pá"
+"Spear","Spear","Lancia","Włócznia","Lanza","Speer","Lança","Lance","槍","Копье","Mızrak","رمح","Oštěp","หอก","Tombak","Speer","Giáo","창","矛","矛","Ietis","Спис","Šķēps","भाला","Δόρυ","Lança"
+"Treasure","Treasure","Tesoro","Skarb","Tesoro","Schatz","Tesouro","Trésor","宝物","Сокровище","Hazine","كنز","Poklad","สมบัติ","Harta karun","Schat","Kho báu","보물","宝藏","寶藏","Lobis","Скарб","Dārgums","खजाना","Θησαυρός","Tesouro"
+"Unload","Unload","Scarica","Wyładuj","Descargar","Entladen","Descarregar","Décharger","アンロード","Выгрузить","Boşalt","تفريغ","Vyložit","ถ่ายถาม","Membongkar","Lossen","Dỡ hàng","언로드","卸载","卸載","Iškrauti","Розвантажити","Izkrāt","अनलोड","Εκφόρτωση","Descarregar"
+"Unlock","Unlock","Sblocca","Odblokuj","Desbloquear","Freischalten","Desbloquear","Déverrouiller","アンロック","Разблокировать","Kilidi Aç","فتح","Odemknout","ปลดล็อค","Membuka","Ontgrendelen","Mở Khóa","잠금 해제","解锁","解鎖","Atrakinti","Розблокувати","Atbloķēt","अनलॉक","Ξεκλείδωμα","Desbloquear"
+"WheelBarrow","Wheelbarrow","Carriola","Taczka","Carretilla","Schubkarre","Carrinho de mão","Brouette","手押し車","Тачка","El arabası","عربة اليد","Tačka","รถเข็น","Gerobak","Kruiwagen","Xe cút kít","수레","手推车","手推車","Rankinė","Тачка","Rokas ratu rati","हाथगाड़ी","Χειρόβαρο","Carrinho de mão"
+"InviteFriends","Invite Friends","Invita Amici","Zaproś Przyjaciół","Invitar a amigos","Freunde einladen","Convidar amigos","Inviter des amis","友達を招待","Пригласить друзей","Arkadaşları Davet Et","دعوة الأصدقاء","Pozvat přátele","เชิญเพื่อน","Undang Teman","Vrienden uitnodigen","Mời bạn bè","친구 초대","邀请好友","邀請好友","Pakviesti draugus","Запросити друзів","Uzaicināt draugus","दोस्तों को आमंत्रित करें","Προσκαλέστε Φίλους","Convidar Amigos"
+"Join","Join","Unisciti","Dołącz","Unirse","Beitreten","Entrar","Rejoindre","参加する","Присоединиться","Katıl","الانضمام","Připojit","เข้าร่วม","Bergabung","Meedoen","Tham gia","참여","加入","加入","Prisijungti","Приєднатися","Pievienoties","मेल जोड़ें","Συμμετοχή","Entrar"
+"JoinRecommended","Join Random","Unisciti a Casuale","Dołącz do Losowego","Unirse al Azar","Zufällig Beitreten","Entrar Aleatório","Rejoindre aléatoire","ランダムに参加","Присоединиться к случайному","Rastgele Katıl","الانضمام لعشوائي","Připojit k náhodnému","เข้าร่วมสุ่ม","Gabung Acak","Willekeurig Meedoen","Tham gia ngẫu nhiên","무작위 참가","随机加入","隨機加入","Prisijungti prie atsitiktinio","Приєднатися до випадкового","Pievienoties nejaušam","अनियमित मेल जोड़ें","Τυχαία Συμμετοχή","Entrar Aleatório"
+"LobbySearch","Lobby Search","Ricerca Lobby","Wyszukiwanie Lobby","Búsqueda de Lobby","Lobby Suche","Pesquisa de Lobby","Recherche de Lobby","ロビー検索","Лобби Поиск","Lobi Arama","بحث في الردهة","Vyhledávání Lobby","ค้นหาล็อบบี้","Pencarian Lobi","Lobby Zoeken","Tìm kiếm Phòng chờ","로비 검색","大厅搜索","大廳搜尋","Lobio Paieška","Лобі Пошук","Lobi Meklēšana","लॉबी खोज","Αναζήτηση Λόμπι","Pesquisa de Lobby"
+"NotSearchable","Lock Lobby","Blocca Lobby","Zablokuj Lobby","Bloquear Lobby","Lobby sperren","Travar Lobby","Verrouiller le lobby","ロビーをロック","Заблокировать лобби","Lobiyi Kilit","قفل اللوبي","Zamknout lobby","ล็อกห้องรอ","Kunci Lobby","Lobby Vergrendelen","Khóa Lobby","로비 잠금","锁定大厅","鎖定大廳","Užrakinti svetainę","Заблокувати лобі","Aizslēgt vestibi","लॉबी को ताले लगाएं","Κλειδώστε το Λόμπι","Travar Lobby"
+"Players","Players","Giocatori","Gracze","Jugadores","Spieler","Jogadores","Joueurs","プレイヤー","Игроки","Oyuncular","لاعبين","Hráči","ผู้เล่น","Pemain","Spelers","Người chơi","플레이어","玩家","玩家","Žaidėjai","Гравці","Spēlētāji","खिलाड़ी","Παίκτες","Jogadores"
+"Refresh","Refresh","Aggiorna","Odśwież","Actualizar","Aktualisieren","Atualizar","Rafraîchir","更新する","Обновить","Yenile","تحديث","Obnovit","รีเฟรช","Segarkan","Vernieuwen","Làm mới","새로 고침","刷新","刷新","Atnaujinti","Оновити","Atsvaidzināt","ताजा करें","Ανανέωση","Atualizar"
+"Searchable","Open Lobby","Lobby Aperto","Otwarte Lobby","Lobby Abierto","Offenes Lobby","Lobby Aberto","Lobby ouvert","オープンロビー","Открытое лобби","Açık Lobisi","لوبي مفتوح","Otevřené lobby","ห้องรอเปิด","Lobby Terbuka","Open Lobby","Lobby Mở","오픈 로비","开放大厅","開放大廳","Atvira svetainė","Відкрите лобі","Atvērts vestibi","लॉबी खुला है","Ανοιχτό Λόμπι","Lobby Aberto"
+"Back","Back","Indietro","Wstecz","Atrás","Zurück","Voltar","Retour","戻る","Назад","Geri","العودة","Zpět","ย้อนกลับ","Kembali","Terug","Quay lại","뒤로","返回","返回","Atgal","Назад","Atpakaļ","वापस","Πίσω","Voltar"
+"Close","Close","Chiuso","Zamknij","Cerrar","Schließen","Fechar","Fermer","閉じる","Закрыть","Kapat","إغلاق","Zavřít","ปิด","Tutup","Sluiten","Đóng","닫기","关闭","關閉","Uždaryti","Закрити","Aizvērt","बंद करें","Κλείσιμο","Fechar"
+"FailedToConnect","Failed to connect to Online Services. Entering offline mode.","Impossibile connettersi ai servizi online. Passaggio alla modalità offline.","Nie udało się połączyć z usługami online. Przechodzenie w tryb offline.","Error al conectar con los servicios en línea. Entrando en modo desconectado.","Fehler bei der Verbindung zu den Online-Diensten. Wechsel in den Offline-Modus.","Falha ao conectar aos Serviços Online. Entrando no modo offline.","Échec de la connexion aux services en ligne. Passage en mode hors-ligne.","オンラインサービスに接続できませんでした。オフラインモードに移行します。","Не удалось подключиться к онлайн-сервисам. Переход в офлайн-режим.","Çevrimiçi Hizmetlere bağlanılamadı. Çevrimdışı moda geçiliyor.","فشل في الاتصال بالخدمات الإلكترونية. الدخول في وضع غير متصل.","Nepodařilo se připojit k online službám. Přecházíme do offline režimu.","เชื่อมต่อกับบริการออนไลน์ไม่สำเร็จ เข้าสู่โหมดออฟไลน์","Gagal terhubung ke Layanan Online. Memasuki mode offline.","Mislukt om te verbinden met online diensten. Schakelen naar offline modus.","Không thể kết nối đến Dịch vụ Trực tuyến. Chuyển sang chế độ ngoại tuyến.","온라인 서비스에 연결하지 못했습니다. 오프라인 모드로 전환합니다.","无法连接到在线服务。进入离线模式。","無法連接到線上服務。進入離線模式。","Nepavyko prisijungti prie internetinių paslaugų. Perjungimas į atsijungusį režimą.","Не вдалося підключитися до онлайн-сервісів. Перехід в автономний режим.","Neizdevās pievienoties tiešsaistes pakalpojumiem. Ieejot bezsaistes režīmā.","ऑनलाइन सेवाओं से जुड़ने में विफल। ऑफलाइन मोड में प्रवेश कर रहा है।","Αποτυχία σύνδεσης με τις ηλεκτρονικές υπηρεσίες. Εισαγωγή σε λειτουργία εκτός σύνδεσης.","Falha ao conectar aos Serviços Online. Entrando no modo offline."
+"Next","Next","Avanti","Następny","Siguiente","Weiter","Próximo","Suivant","次へ","Далее","İleri","التالي","Další","ถัดไป","Selanjutnya","Volgende","Tiếp theo","다음","下一步","下一步","Toliau","Далі","Tālāk","अगला","Επόμενος","Próximo"
+"Notification","Notification","Notifica","Powiadomienie","Notificación","Benachrichtigung","Notificação","Notification","通知","Уведомление","Bildirim","إشعار","Oznámení","การแจ้งเตือน","Notifikasi","Melding","Thông báo","알림","通知","通知","Pranešimas","Повідомлення","Paziņojums","सूचना","Ειδοποίηση","Notificação"
+"YouveBeenDisconnected","You've Been Disconnected","Sei stato disconnesso","Zostałeś rozłączony","Has sido desconectado","Du wurdest getrennt","Você foi desconectado","Vous avez été déconnecté","切断されました","Вы были отключены","Bağlantınız Kesildi","تم قطع الاتصال بك","Byl jste odpojen","คุณถูกตัดการเชื่อมต่อ","Anda telah terputus","Je bent verbroken","Bạn đã bị ngắt kết nối","연결이 끊어졌습니다","已断开连接","已斷開連接","Jūs buvote atjungtas","Ви були відключені","Jūs esat atvienots","आपका संबंध विच्छेदित हो गया है","Έχετε αποσυνδεθεί","Você foi desconectado"
+"Audio","Audio","Audio","Audio","Audio","Audio","Áudio","Audio","オーディオ","Аудио","Ses","الصوت","Zvuk","เสียง","Audio","Audio","Âm thanh","오디오","音频","音頻","Garsas","Аудіо","Skaņa","ऑडियो","Ήχος","Áudio"
+"Beautiful","Beautiful","Bellissimo","Piękny","Hermoso","Schön","Bonito","Beau","美しい","Красивый","Güzel","جميل","Krásný","สวยงาม","Indah","Mooi","Đẹp","아름다운","漂亮","漂亮","Gražus","Гарний","Skaists","सुंदर","Όμορφος","Lindo"
+"Extra","Extra","Extra","Extra","Extra","Extra","Extra","Extra","エクストラ","Экстра","Ekstra","إضافي","Extra","พิเศษ","Ekstra","Extra","Extra","엑스트라","额外","額外","Papildomas","Додатково","Papildus","अतिरिक्त","Επιπλέον","Extra"
+"FpsLimit","FPS Limit","Limite FPS","Limit FPS","Límite de FPS","FPS-Begrenzung","Limite de FPS","Limite FPS","FPS制限","Ограничение FPS","FPS Sınırı","حد الإطارات","Limit FPS","จำกัด FPS","Batas FPS","FPS Limiet","Giới hạn FPS","FPS 제한","FPS限制","FPS限制","FPS riba","Обмеження FPS","FPS ierobežojums","FPS सीमा","Όριο FPS","Limite de FPS"
+"Good","Good","Buono","Dobry","Bueno","Gut","Bom","Bon","良い","Хорошо","İyi","جيد","Dobrý","ดี","Baik","Goed","Tốt","좋은","好","好","Geras","Добре","Labs","अच्छा","Καλός","Bom"
+"Graphics","Graphics","Grafica","Grafika","Gráficos","Grafik","Gráficos","Graphismes","グラフィックス","Графика","Grafikler","الرسومات","Grafika","กราฟิก","Grafis","Grafiek","Đồ họa","그래픽","图形","圖形","Grafika","Графіка","Grafika","ग्राफिक्स","Γραφικά","Gráficos"
+"Language","Language","Lingua","Język","Idioma","Sprache","Língua","Langue","言語","Язык","Dil","اللغة","Jazyk","ภาษา","Bahasa","Taal","Ngôn ngữ","언어","语言","語言","Kalba","Мова","Valoda","भाषा","Γλώσσα","Idioma"
+"Music","Music","Musica","Muzyka","Música","Musik","Música","Musique","音楽","Музыка","Müzik","الموسيقى","Hudba","เพลง","Musik","Muziek","Âm nhạc","음악","音乐","音樂","Muzika","Музика","Mūzika","संगीत","Μουσική","Música"
+"Potato","Potato","Patata","Ziemniak","Patata","Kartoffel","Batata","Pomme de terre","ジャガイモ","Картофель","Patates","البطاطا","Brambora","มันฝรั่ง","Kentang","Aardappel","Khoai tây","감자","土豆","馬鈴薯","Bulvė","Картопля","Kartupelis","आलू","Πατάτα","Batata"
+"Quality","Quality","Qualità","Jakość","Calidad","Qualität","Qualidade","Qualité","品質","Качество","Kalite","الجودة","Kvalita","คุณภาพ","Kualitas","Kwaliteit","Chất lượng","품질","质量","品質","Kokybė","Якість","Kvalitāte","गुणवत्ता","Ποιότητα","Qualidade"
+"Sounds","Sounds","Suoni","Dźwięki","Sonidos","Töne","Sons","Sons","音","Звуки","Sesler","الأصوات","Zvuky","เสียง","Suara","Geluiden","Âm thanh","소리","声音","聲音","Garsai","Звуки","Skaņas","ध्वनियां","Ήχοι","Sons"
+"InnocentDescription","YOU ARE INNOCENT","SEI INNOCENTE","JESTEŚ NIEWINNY","ERES INOCENTE","DU BIST UNSCHULDIG","VOCÊ É INOCENTE","VOUS ÊTES INNOCENT","あなたは無実です","ТЫ НЕВИНОВЕН","MASUMSUN","أنت بريء","JSTE NEVINNÝ","คุณเป็นคนไม่รู้เรื่อง","KAMU TIDAK BERSALAH","JE BENT ONSCHULDIG","BẠN LÀ NGƯỜI VÔ TỘI","무죄입니다","你是无辜的","你是無辜的","JŪS ESNATE NEKALTAS","ТИ НЕВИННИЙ","TU ESI NEVAINĪGS","तुम मासूम हो","ΕΊΣΑΙ ΑΘΏΟΣ","VOCÊ É INOCENTE"
+"PillarsOfRebirth","Pillars of Rebirth","Pilastri della Rinascita","Filary Odrodzenia","Pilares del Renacimiento","Säulen der Wiedergeburt","Pilares do Renascimento","Piliers de la Renaissance","再生の柱","Столпы Возрождения","Yeniden Doğuşun Direkleri","أعمدة الإعادة","Pilíře znovuzrození","เสาแห่งการเกิดใหม่","Tiang-tiang Kebangkitan","Pilaren van de Wedergeboorte","Trụ Sống Lại","재생의 기둥","复生之柱","復生之柱","Atgimimo Stulpai","Стовпи Відродження","Dzimšanas Stabi","जन्म के स्तंभ","Στύλοι της Αναγέννησης","Pilares da Ressurreição"
+"ReturnToTheBurrow","Return To The Burrow","Torna al covo","Wróć do kryjówki","Regresar al escondrijo","Zurück zum Bau","Regressar à toca","Retour au terrier","穴に戻る","Вернуться в кроличью нору","Yuvasına dön","العودة إلى الجحر","Vrátit se do nory","กลับไปที่รัง","Kembali ke lubang","Terug naar de burcht","Trở về hang","굴로 돌아가기","回到兔穴","回到兔窩","Grįžti į urvą","Повернутися до кроличої нори","Atgriezties alā","बिल में लौटें","Επιστροφή στο λαγουδάκι","Voltar para a toca"
+"SecretTasks","~ Secret Tasks ~","~ Compiti segreti ~","~ Tajne zadania ~","~ Tareas secretas ~","~ Geheime Aufgaben ~","~ Tarefas secretas ~","~ Tâches secrètes ~","~ 秘密のタスク ~","~ Секретные задания ~","~ Gizli Görevler ~","~ المهام السرية ~","~ Tajné úkoly ~","~ งานลับ ~","~ Tugas Rahasia ~","~ Geheime taken ~","~ Nhiệm vụ bí mật ~","~ 비밀 임무 ~","~ 秘密任务 ~","~ 秘密任務 ~","~ Slaptoji užduotis ~","~ Секретні завдання ~","~ Slepenie uzdevumi ~","~ गुप्त कार्य ~","~ Μυστικές εργασίες ~","~ Tarefas secretas ~"
+"StopBunniesFromEscaping","Stop Bunnies From Escaping","Ferma i coniglietti dalla fuga","Zatrzymaj króliki przed ucieczką","Detener a los conejos de escapar","Stoppen Sie die Kaninchen vor dem Entkommen","Impedir os coelhos de escapar","Empêcher les lapins de s'évader","ウサギの逃走を止める","Остановить кроликов от побега","Tavşanların kaçmasını durdur","إيقاف الأرانب من الهروب","Zastavit králíky před útěkem","หยุดกระต่ายจากการหนี","Hentikan kelinci dari melarikan diri","Stop de konijnen van ontsnappen","Ngăn chặn thỏ trốn thoát","토끼의 탈출을 막다","阻止兔子逃跑","阻止兔子逃跑","Sustabdyti triušius nuo pabėgimo","Зупиніть кроликів від втечі","Apturēt zaķus no bēgšanas","खरगोश को भागने से रोको","Σταματήστε τα κουνέλια από το να δραπετεύσουν","Impedir os coelhos de escapar"
+"TraitorDescription","YOU ARE A TRAITOR","SEI UN TRADITORE","JESTEŚ ZDRAJCĄ","ERES UN TRAIDOR","DU BIST EIN VERRÄTER","VOCÊ É UM TRAIDOR","VOUS ÊTES UN TRAÎTRE","あなたは裏切り者です","ТЫ ПРЕДАТЕЛЬ","HAİNSİN","أنت خائن","JSTE ZRADEC","คุณเป็นคนทรยศ","KAMU ADALAH PENGKHIANAT","JE BENT EEN VERRADER","BẠN LÀ KẺ PHẢN BỘI","배신자입니다","你是叛徒","你是叛徒","JŪS ESNATE IŠDAVYKAS","ТИ ЗРАДНИК","TU ESI NODEVĒJS","तुम विश्वासघाती हो","ΕΊΣΑΙ ΠΡΟΔΌΤΗΣ","VOCÊ É UM TRAIDOR"
+"Create","Create","Crea","Utwórz","Crear","Erstellen","Criar","Créer","作成する","Создать","Oluştur","إنشاء","Vytvořit","สร้าง","Buat","Maken","Tạo","만들기","创建","創建","Sukurti","Створити","Izveidot","बनाएँ","Δημιουργήστε","Criar"
+"GoOnline","Go online","Vai online","Wejdź online","Ve en línea","Gehe online","Fica online","Aller en ligne","オンラインになる","Онлайн","Çevrimiçi ol","اذهب على الإنترنت","Jdi online","ไปออนไลน์","Pergi online","Ga online","Trực tuyến","온라인으로 가기","上线","上線","Eikite į internetą","Йди в онлайн","Ejiet tiešsaistē","ऑनलाइन जाओ","Πηγαίνετε online","Fica online"
+"LobbyStatus","Lobby status","Stato della lobby","Status pokoju","Estado del lobby","Lobby-Status","Estado do lobby","Statut du lobby","ロビーステータス","Лобби статус","Lobi durumu","حالة اللوبي","Stav lobby","สถานะล็อบบี้","Status lobi","Lobby status","Trạng thái phòng chờ","로비 상태","大厅状态","大廳狀態","Lobio būsena","Лобі статус","Lobija statuss","लॉबी की स्थिति","Κατάσταση αίθουσας","Status do lobby"
+"Member","Member","Membro","Członek","Miembro","Mitglied","Membro","Membre","メンバー","Участник","Üye","عضو","Člen","สมาชิก","Anggota","Lid","Thành viên","멤버","成员","成員","Narys","Учасник","Biedrs","सदस्य","Μέλος","Membro"
+"NoLobby","No lobby","Nessuna lobby","Brak pokoju","Sin lobby","Kein Lobby","Sem lobby","Pas de lobby","ロビーなし","Лобби нет","Lobi yok","لا يوجد لوبي","Žádná lobby","ไม่มีล็อบบี้","Tidak ada lobi","Geen lobby","Không có phòng chờ","로비 없음","无大厅","無大廳","Nėra lobio","Немає лобі","Nav lobija","लॉबी नहीं है","Χωρίς αίθουσα","Sem lobby"
+"Offline","Offline","Offline","Offline","Desconectado","Offline","Offline","Hors ligne","オフライン","Офлайн","Çevrimdışı","غير متصل","Offline","ออฟไลน์","Offline","Offline","Ngoại tuyến","오프라인","离线","離線","Neprisijungęs","Офлайн","Bezsaistē","ऑफलाइन","Εκτός σύνδεσης","Offline"
+"Online","Online","Online","Online","En línea","Online","Online","En ligne","オンライン","Онлайн","Çevrimiçi","متصل","Online","ออนไลน์","Online","Online","Trực tuyến","온라인","在线","線上","Prisijungęs","Онлайн","Tiešsaistē","ऑनलाइन","Σε απευθείας σύνδεση","Online"
+"OnlineStatus","Online status","Stato online","Status online","Estado en línea","Online-Status","Status online","Statut en ligne","オンラインステータス","Онлайн статус","Çevrimiçi durum","الحالة على الإنترنت","Online stav","สถานะออนไลน์","Status online","Online status","Trạng thái trực tuyến","온라인 상태","在线状态","在線狀態","Prisijungimo būsena","Онлайн статус","Tiešsaistes statuss","ऑनलाइन स्थिति","Κατάσταση σε απευθείας σύνδεση","Status online"
+"Owner","Owner","Proprietario","Właściciel","Propietario","Eigentümer","Proprietário","Propriétaire","オーナー","Владелец","Sahip","مالك","Vlastník","เจ้าของ","Pemilik","Eigenaar","Chủ sở hữu","소유자","所有者","擁有者","Savininkas","Власник","Īpašnieks","मालिक","Ιδιοκτήτης","Proprietário"
+"Search","Search","Cerca","Szukaj","Buscar","Suchen","Pesquisar","Rechercher","検索","Поиск","Ara","بحث","Hledat","ค้นหา","Cari","Zoeken","Tìm kiếm","검색","搜索","搜尋","Ieškoti","Пошук","Meklēt","खोज","Αναζήτηση","Pesquisar"
+"Apples_Descriptions","Obtain and stash apples ({0}/{1})","Ottieni e nascondi mele ({0}/{1})","Zdobądź i schowaj jabłka ({0}/{1})","Obtén y guarda manzanas ({0}/{1})","Besorge und verstaue Äpfel ({0}/{1})","Obtém e guarda maçãs ({0}/{1})","Obtiens et cache des pommes ({0}/{1})","リンゴを手に入れて隠す ({0}/{1})","Получи и спрячь яблоки ({0}/{1})","Elmaları topla ve sakla ({0}/{1})","احصل على التفاح واخبئه ({0}/{1})","Získej a schovej jablka ({0}/{1})","รับและซ่อนแอปเปิ้ล ({0}/{1})","Dapatkan dan simpan apel ({0}/{1})","Verzamel en berg appels op ({0}/{1})","Thu thập và cất giữ táo ({0}/{1})","사과를 획득하고 숨겨라 ({0}/{1})","获取并藏匿苹果 ({0}/{1})","取得並藏匿蘋果 ({0}/{1})","Gauk ir paslėpk obuolius ({0}/{1})","Отримай та сховай яблука ({0}/{1})","Iegūsti un paslēpj ābolus ({0}/{1})","प्राप्त करें और सेब छिपाएँ ({0}/{1})","Απόκτησε και κρύψε μήλα ({0}/{1})","Obtenha e esconda maçãs ({0}/{1})"
+"BuryTheHatchet_Descriptions","Distract the farmer ({0}/{1})","Distrarre il contadino ({0}/{1})","Odprowadź uwagę rolnika ({0}/{1})","Distraer al granjero ({0}/{1})","Lenke den Bauer ab ({0}/{1})","Distraia o fazendeiro ({0}/{1})","Détourner l'attention du fermier ({0}/{1})","農夫を気を取られさせる ({0}/{1})","Отвлеките фермера ({0}/{1})","Çiftçiyi dağıt ({0}/{1})","صرف انتباه الفلاح ({0}/{1})","Rozptylit pozornost farmáře ({0}/{1})","ขัดขวางชาวนา ({0}/{1})","Ganggu petani ({0}/{1})","Leid de boer af ({0}/{1})","Làm phân tâm nông dân ({0}/{1})","농부를 딴데 보게 해라 ({0}/{1})","分散农夫的注意力 ({0}/{1})","分散農夫的注意力 ({0}/{1})","Nukreipkite ūkininko dėmesį ({0}/{1})","Відверніть увагу фермера ({0}/{1})","Novērsiet lauksaimnieka uzmanību ({0}/{1})","किसान का ध्यान भटकाओ ({0}/{1})","Αποσπάστε την προσοχή του αγρότη ({0}/{1})","Distraia o fazendeiro ({0}/{1})"
+"Campfires_Descriptions","Light up a campfire ({0}/{1})","Accendi un falò ({0}/{1})","Rozpal ognisko ({0}/{1})","Enciende una fogata ({0}/{1})","Entzünde ein Lagerfeuer ({0}/{1})","Acenda uma fogueira ({0}/{1})","Allume un feu de camp ({0}/{1})","キャンプファイヤーを灯す ({0}/{1})","Разведи костер ({0}/{1})","Kamp ateşi yak ({0}/{1})","أشعل نار المخيم ({0}/{1})","Rozdělej táborák ({0}/{1})","จุดกองไฟ ({0}/{1})","Nyalakan api unggun ({0}/{1})","Steek een kampvuur aan ({0}/{1})","Thắp lửa trại ({0}/{1})","모닥불을 피워라 ({0}/{1})","点燃篝火 ({0}/{1})","點燃營火 ({0}/{1})","Užkurk laužą ({0}/{1})","Розпали ватру ({0}/{1})","Iedeg campfire ({0}/{1})","शिविर की आग जलाओ ({0}/{1})","Άναψε μια φωτιά ({0}/{1})","Acenda uma fogueira ({0}/{1})"
+"CleanUp_Descriptions","Clean up junk ({0}/{1})","Pulisci spazzatura ({0}/{1})","Posprzątaj śmieci ({0}/{1})","Limpiar basura ({0}/{1})","Räume Unrat auf ({0}/{1})","Limpar lixo ({0}/{1})","Nettoyer les déchets ({0}/{1})","ゴミを片付ける ({0}/{1})","Убрать мусор ({0}/{1})","Çöpleri Temizle ({0}/{1})","تنظيف القمامة ({0}/{1})","Uklidit odpadky ({0}/{1})","ทำความสะอาดขยะ ({0}/{1})","Bersihkan sampah ({0}/{1})","Ruim rommel op ({0}/{1})","Dọn dẹp rác ({0}/{1})","쓰레기 청소 ({0}/{1})","清理垃圾 ({0}/{1})","清理垃圾 ({0}/{1})","Išvalyti šiukšles ({0}/{1})","Прибрати сміття ({0}/{1})","Iztīrīt atkritumus ({0}/{1})","साफ करें कचरा ({0}/{1})","Καθαρίστε τα σκουπίδια ({0}/{1})","Limpar lixo ({0}/{1})"
+"CollectCarrots_Descriptions","Obtain crops ({0}/{1})","Ottieni colture ({0}/{1})","Zdobądź plony ({0}/{1})","Obtén cultivos ({0}/{1})","Erhalte Ernten ({0}/{1})","Obtenha colheitas ({0}/{1})","Obtenir des récoltes ({0}/{1})","作物を入手する ({0}/{1})","Получите урожай ({0}/{1})","Mahsul al ({0}/{1})","احصل على المحاصيل ({0}/{1})","Získejte plodiny ({0}/{1})","รับพืชผล ({0}/{1})","Dapatkan panen ({0}/{1})","Verkrijg gewassen ({0}/{1})","Thu hoạch ({0}/{1})","농작물을 얻으세요 ({0}/{1})","获取庄稼 ({0}/{1})","獲得作物 ({0}/{1})","Gaukite derlių ({0}/{1})","Отримайте врожай ({0}/{1})","Iegūstiet ražu ({0}/{1})","पैदावार प्राप्त करें ({0}/{1})","Λάβετε καλλιέργειες ({0}/{1})","Obtenha colheitas ({0}/{1})"
+"EliminateBunnies_Descriptions","Eliminate bunnies ({0}/{1})","Elimina i conigli ({0}/{1})","Wyeliminuj króliki ({0}/{1})","Elimina a los conejos ({0}/{1})","Beseitige die Hasen ({0}/{1})","Elimine os coelhos ({0}/{1})","Éliminer les lapins ({0}/{1})","ウサギを排除する ({0}/{1})","Устраните кроликов ({0}/{1})","Tavşanları yok et ({0}/{1})","القضاء على الأرانب ({0}/{1})","Odstraňte králíky ({0}/{1})","กำจัดกระต่าย ({0}/{1})","Hapuskan kelinci ({0}/{1})","Elimineer de konijnen ({0}/{1})","Loại bỏ thỏ ({0}/{1})","토끼를 제거하세요 ({0}/{1})","消灭兔子 ({0}/{1})","消滅兔子 ({0}/{1})","Pašalinkite triušius ({0}/{1})","Усуньте кроликів ({0}/{1})","Izņemiet zaķus ({0}/{1})","खरगोशों को हटाएं ({0}/{1})","Εξαφανίστε τα κουνέλια ({0}/{1})","Elimine os coelhos ({0}/{1})"
+"FarmersRevenge_Descriptions","Steal and stash the farmer's hat ({0}/{1})","Ruba e nascondi il cappello del contadino ({0}/{1})","Ukradnij i schowaj kapelusz rolnika ({0}/{1})","Roba y guarda el sombrero del granjero ({0}/{1})","Stiehl und verstaue den Bauernhut ({0}/{1})","Rouba e guarda o chapéu do fazendeiro ({0}/{1})","Vole et cache le chapeau du fermier ({0}/{1})","農夫の帽子を盗んで隠す ({0}/{1})","Укради и спрячь шляпу фермера ({0}/{1})","Çiftçinin şapkasını çal ve sakla ({0}/{1})","اسرق واخبئ قبعة الفلاح ({0}/{1})","Ukradni a schovej klobouk farmáře ({0}/{1})","ขโมยและซ่อนหมวกชาวนา ({0}/{1})","Curi dan simpan topi petani ({0}/{1})","Steel en berg de boerenhoed op ({0}/{1})","Ăn cắp và cất giữ nón nông dân ({0}/{1})","농부의 모자를 훔쳐 숨겨라 ({0}/{1})","偷走并藏匿农夫的帽子 ({0}/{1})","偷走並藏匿農夫的帽子 ({0}/{1})","Vogk ir paslėpk ūkininko skrybėlę ({0}/{1})","Вкради і сховай капелюх фермера ({0}/{1})","Nozog un paslēpj zemnieka cepuri ({0}/{1})","किसान की टोपी चुराओ और छुपाओ ({0}/{1})","Κλέψε και κρύψε το καπέλο του αγρότη ({0}/{1})","Roube e esconda o chapéu do fazendeiro ({0}/{1})"
+"HerdSheep_Descriptions","Herd the sheep into enclosement ({0}/{1})","Raduna le pecore nell'enclos ({0}/{1})","Zaganiaj owce do zagrody ({0}/{1})","Reúne a las ovejas en el cercado ({0}/{1})","Treibe die Schafe ins Gehege ({0}/{1})","Conduza as ovelhas para o cercado ({0}/{1})","Rassemblez les moutons dans l'enclos ({0}/{1})","羊を囲いに追い込む ({0}/{1})","Загоните овец в загон ({0}/{1})","Koyunları çitle çevir ({0}/{1})","أحضر الأغنام إلى الحظيرة ({0}/{1})","Sesbírejte ovce do ohrady ({0}/{1})","เลี้ยงแกะเข้าโรงเรือน ({0}/{1})","Kumpulkan domba ke kandang ({0}/{1})","Drijf de schapen naar de omheining ({0}/{1})","Chuyển cừu vào chuồng ({0}/{1})","양을 울타리 안으로 몰아넣으세요 ({0}/{1})","把羊赶进围栏 ({0}/{1})","將羊趕進圍欄 ({0}/{1})","Pievilkite avis į aptvarką ({0}/{1})","Загоніть вівці у загін ({0}/{1})","Novadīt aitas uz žogu ({0}/{1})","भेड़ों को बंद में चला लें ({0}/{1})","Μάζεψε τα πρόβατα στο κλουβί ({0}/{1})","Conduza as ovelhas para o cercado ({0}/{1})"
+"LateNightSnack_Descriptions","Snack on carrots ({0}/{1})","Sgranocchia carote ({0}/{1})","Podjadać marchewki ({0}/{1})","Come zanahorias de aperitivo ({0}/{1})","Knabbere an Karotten ({0}/{1})","Lanche de cenouras ({0}/{1})","Grignotez des carottes ({0}/{1})","人参をつまむ ({0}/{1})","Перекусите морковью ({0}/{1})","Havuç yiyin ({0}/{1})","تناول الجزر كوجبة خفيفة ({0}/{1})","Svačte na mrkvích ({0}/{1})","ข้าวว่างแครอท ({0}/{1})","Mengemil wortel ({0}/{1})","Knabbel aan wortels ({0}/{1})","Ăn cà rốt như một món ăn nhẹ ({0}/{1})","당근을 간식으로 먹으세요 ({0}/{1})","吃胡萝卜小吃 ({0}/{1})","吃胡蘿蔔小吃 ({0}/{1})","Užkandžiaukite morkomis ({0}/{1})","Перекусіть морквою ({0}/{1})","Ēdiet burkānus kā uzkodas ({0}/{1})","गाजर को नाश्ता में खाएं ({0}/{1})","Σνακ με καρότα ({0}/{1})","Lanche de cenouras ({0}/{1})"
+"TalonTrouble_Descriptions","Escape eagles ({0}/{1})","Sfuggi alle aquile ({0}/{1})","Uciekaj przed orłami ({0}/{1})","Escapa de las águilas ({0}/{1})","Entkomme den Adlern ({0}/{1})","Fuja das águias ({0}/{1})","Échappez aux aigles ({0}/{1})","鷲から逃げる ({0}/{1})","Сбежать от орлов ({0}/{1})","Kartallardan kaç ({0}/{1})","الهروب من النسور ({0}/{1})","Utečte před orly ({0}/{1})","หนีอินทรี ({0}/{1})","Hindari elang ({0}/{1})","Ontsnap aan de arenden ({0}/{1})","Trốn thoát khỏi đại bàng ({0}/{1})","독수리로부터 도망치세요 ({0}/{1})","逃避鹰 ({0}/{1})","逃避鷹 ({0}/{1})","Pabėgti nuo erelių ({0}/{1})","Втеча від орлів ({0}/{1})","Izbēgt no ērgļiem ({0}/{1})","गरुड़ों से भागो ({0}/{1})","Δραπέτευσε από τους αετούς ({0}/{1})","Fuja das águias ({0}/{1})"
+"TreasureHunt_Descriptions","Steal and stash the farmer's hat ({0}/{1})","Ruba e nascondi il cappello del contadino ({0}/{1})","Ukradnij i schowaj kapelusz farmera ({0}/{1})","Roba y esconde el sombrero del granjero ({0}/{1})","Stiehl und verstecke den Hut des Bauern ({0}/{1})","Roube e esconda o chapéu do fazendeiro ({0}/{1})","Volez et cachez le chapeau du fermier ({0}/{1})","農家の帽子を盗んで隠す ({0}/{1})","Укради и спрячь шляпу фермера ({0}/{1})","Çiftçinin şapkasını çal ve sakla ({0}/{1})","اسرق قبعة المزارع وأخفها ({0}/{1})","Ukradni a schovej farmářův klobouk ({0}/{1})","ขโมยและซ่อนหมวกของชาวไร่ ({0}/{1})","Curi dan sembunyikan topi petani ({0}/{1})","Steel en verberg de hoed van de boer ({0}/{1})","Đánh cắp và cất giấu mũ của nông dân ({0}/{1})","농부의 모자를 훔쳐서 숨겨라 ({0}/{1})","偷走并藏匿农夫的帽子 ({0}/{1})","偷走並藏匿農夫的帽子 ({0}/{1})","Pavok ir paslėpk ūkininko skrybėlę ({0}/{1})","Вкради і сховай капелюх фермера ({0}/{1})","Nozog un paslēp zemnieka cepuri ({0}/{1})","किसान की टोपी चुराओ और छिपाओ ({0}/{1})","Κλέψε και κρύψε το καπέλο του αγρότη ({0}/{1})","Roube e esconda o chapéu do fazendeiro ({0}/{1})"
+"Tasks Completed","Tasks Completed","Attività completate","Zadania ukończone","Tareas completadas","Aufgaben abgeschlossen","Tarefas concluídas","Tâches terminées","タスク完了","Задачи выполнены","Tamamlanan Görevler","المهام المكتملة","Dokončené úkoly","งานที่เสร็จสมบูรณ์","Tugas yang Diselesaikan","Voltooide taken","Nhiệm vụ đã hoàn thành","완료된 작업","完成的任务","完成的任務","Atlikti uždaviniai","Виконані завдання","Pabeigtie uzdevumi","पूरा किए गए कार्य","Ολοκληρωμένες Εργασίες","Tarefas concluídas"
+"Template","Medium","Modello","Szablon","Plantilla","Vorlage","Modelo","Modèle","テンプレート","Шаблон","Şablon","قالب","Šablona","แม่แบบ","Template","Sjabloon","Mẫu","템플릿","模板","模板","Šablonas","Шаблон","Šablona","टेम्पलेट","Πρότυπο","Modelo"
+"ChooseYourPlaystyle","Choose your playstyle","Scegli il tuo stile di gioco","Wybierz swój styl gry","Elige tu estilo de juego","Wähle deinen Spielstil","Escolha o seu estilo de jogo","Choisissez votre style de jeu","プレイスタイルを選択してください","Выберите ваш стиль игры","Oyun stilinizi seçin","اختر أسلوب اللعب الخاص بك","Zvolte svůj herní styl","เลือกสไตล์การเล่นของคุณ","Pilih gaya bermainmu","Kies je speelstijl","Chọn phong cách chơi của bạn","플레이 스타일을 선택하세요","选择您的游戏风格","選擇您的遊戲風格","Pasirinkite savo žaidimo stilių","Виберіть свій стиль гри","Izvēlieties savu spēles stilu","अपनी खेलने की शैली चुनें","Επιλέξτε το στυλ παιχνιδιού σας","Escolha seu estilo de jogo"
+"ChooseYourPlaystyle_Description","- There are multiple ways to achieve victory as a traitor. The only limit is your imagination.","- Ci sono più modi per ottenere la vittoria come traditore. L'unico limite è la tua immaginazione.","- Istnieje wiele sposobów, by osiągnąć zwycięstwo jako zdrajca. Jedynym ograniczeniem jest twoja wyobraźnia.","- Hay múltiples formas de lograr la victoria como traidor. El único límite es tu imaginación.","- Es gibt mehrere Wege, als Verräter den Sieg zu erringen. Die einzige Grenze ist deine Vorstellungskraft.","- Existem várias maneiras de alcançar a vitória como traidor. O único limite é a sua imaginação.","- Il y a plusieurs façons de remporter la victoire en tant que traître. La seule limite est votre imagination.","- 裏切り者として勝利を収める方法はいくつもあります。限界はあなたの想像力だけです。","- Есть несколько способов добиться победы в роли предателя. Единственный предел - ваша фантазия.","- Bir hain olarak zaferi elde etmenin birden fazla yolu vardır. Tek sınırlama hayal gücünüzdür.","- هناك عدة طرق لتحقيق النصر كخائن. الحد الوحيد هو خيالك.","- Existuje několik způsobů, jak dosáhnout vítězství jako zrádce. Jediným limitem je vaše představivost.","- มีหลายวิธีที่จะทำให้คุณชนะในฐานะผู้ทรยศ ขีดจำกัดเพียงอย่างเดียวคือจินตนาการของคุณ","- Ada banyak cara untuk meraih kemenangan sebagai pengkhianat. Batasnya hanya imajinasi Anda.","- Er zijn meerdere manieren om als verrader te winnen. De enige limiet is je verbeelding.","- Có nhiều cách để giành chiến thắng như một kẻ phản bội. Giới hạn duy nhất là trí tưởng tượng của bạn.","- 배신자로서 승리를 거두는 방법은 여러 가지입니다. 유일한 제한은 당신의 상상력입니다.","- 作为叛徒，有多种方式可以取得胜利。唯一的限制是你的想象力。","- 作為叛徒，有多種方式可以取得勝利。唯一的限制是你的想像力。","- Yra keletas būdų pasiekti pergalę kaip išdavikas. Vienintelė riba yra jūsų vaizduotė.","- Є кілька способів досягти перемоги як зрадник. Єдиний ліміт - ваша фантазія.","- Ir vairāki veidi, kā gūt uzvaru kā nodevējs. Vienīgais ierobežojums ir jūsu iztēle.","- विश्वासघाती के रूप में जीत प्राप्त करने के लिए कई तरीके हैं। एकमात्र सीमा आपकी कल्पना है।","- Υπάρχουν πολλοί τρόποι για να κερδίσετε ως προδότης. Το μόνο όριο είναι η φαντασία σας.","- Existem várias maneiras de alcançar a vitória como traidor. O único limite é a sua imaginação."
+"CompleteTheTasks","Complete the tasks","Completa le attività","Ukończ zadania","Completa las tareas","Erledige die Aufgaben","Complete as tarefas","Terminez les tâches","タスクを完了する","Завершите задачи","Görevleri tamamla","أكمل المهام","Dokonči úkoly","เสร็จสิ้นงาน","Selesaikan tugas-tugas","Voltooi de taken","Hoàn thành các nhiệm vụ","작업을 완료하십시오","完成任务","完成任務","Užduotys atliktos","Завершити завдання","Pabeidz uzdevumus","कार्यों को पूरा करें","Ολοκληρώστε τα καθήκοντα","Complete as tarefas"
+"CompleteTheTasks_Description","- Your goal is to complete the main task.
+- You can do side quests for extra rewards.","- Il tuo obiettivo è completare il compito principale.
+- Puoi fare missioni secondarie per ricompense extra.","- Twoim celem jest ukończenie głównego zadania.
+- Możesz wykonywać zadania poboczne dla dodatkowych nagród.","- Tu objetivo es completar la tarea principal.
+- Puedes hacer misiones secundarias para obtener recompensas adicionales.","- Dein Ziel ist es, die Hauptaufgabe zu erfüllen.
+- Du kannst Nebenquests für zusätzliche Belohnungen erledigen.","- O seu objetivo é completar a tarefa principal.
+- Você pode fazer missões secundárias para ganhar recompensas extras.","- Votre objectif est de terminer la tâche principale.
+- Vous pouvez effectuer des quêtes secondaires pour des récompenses supplémentaires.","- 主な目標は、メインタスクを完了することです。
+- 追加の報酬のためにサイドクエストを行うことができます。","- Вашей целью является выполнение основного задания.
+- Вы можете выполнить дополнительные квесты для получения экстра наград.","- Amaç ana görevi tamamlamaktır.
+- Ekstra ödüller için yan görevler yapabilirsiniz.","- هدفك هو إكمال المهمة الرئيسية.
+- يمكنك القيام بمهام جانبية للحصول على مكافآت إضافية.","- Vaším cílem je dokončit hlavní úkol.
+- Můžete provádět vedlejší úkoly pro získání extra odměn.","- จุดประสงค์ของคุณคือการเสร็จสิ้นงานหลัก
+- คุณสามารถทำภารกิจย่อยเพื่อรับรางวัลเพิ่มเติม","- Tujuan Anda adalah menyelesaikan tugas utama.
+- Anda bisa melakukan misi sampingan untuk mendapatkan hadiah tambahan.","- Jouw doel is om de hoofdtaak te voltooien.
+- Je kunt bijtaken doen voor extra beloningen.","- Mục tiêu của bạn là hoàn thành nhiệm vụ chính.
+- Bạn có thể thực hiện nhiệm vụ phụ để nhận phần thưởng thêm.","- 당신의 목표는 주요 작업을 완료하는 것입니다。
+- 추가 보상을 위해 사이드 퀘스트를 할 수 있습니다.","- 你的目标是完成主要任务。
+- 你可以做额外的副任务来获取额外的奖励。","- 你的目標是完成主要任務。
+- 你可以做額外的副任務來獲得額外的獎勵。","- Tavo tikslas - atlikti pagrindinę užduotį.
+- Šalutines užduotis gali atlikti papildomoms apdovanojimams.","- Вашою метою є виконання основного завдання.
+- Ви можете виконувати додаткові квести для отримання додаткових нагород.","- Tavs mērķis ir pabeigt galveno uzdevumu.
+- Tu vari veikt blakus uzdevumus, lai iegūtu papildu atalgojumu.","- आपका लक्ष्य मुख्य कार्य को पूरा करना है।
+- आप अतिरिक्त पुरस्कारों के लिए साइड क्वेस्ट कर सकते हैं।","- Ο στόχος σας είναι να ολοκληρώσετε το κύριο καθήκον.
+- Μπορείτε να κάνετε παρεπιμένες αποστολές για επιπλέον ανταμοιβές.","- Seu objetivo é completar a tarefa principal.
+- Você pode fazer missões secundárias para ganhar recompensas extras."
+"EliminateTraitors","Eliminate traitors","Elimina i traditori","Wyeliminuj zdrajców","Eliminar traidores","Verräter eliminieren","Eliminar traidores","Éliminer les traîtres","裏切り者を排除する","Предателей устранить","Hainleri ortadan kaldır","القضاء على الخونة","Odstranit zrádce","กำจัดคนทรยศ","Hapus pengkhianat","Verraders uitschakelen","Loại bỏ kẻ phản bội","배신자를 제거하다","消灭叛徒","消滅叛徒","Išnaikinti išdavikus","Ліквідувати зрадників","Izdzēst nodevējus","ग़द्दारों को हटाओ","Εξοντώστε τους προδότες","Eliminar traidores"
+"EliminateTraitors_Description","- Keep an eye out for traitors.
+- Use your best judgement.","- Tieni d'occhio i traditori.
+- Usa il tuo miglior giudizio.","- Uważaj na zdrajców.
+- Użyj swojego najlepszego osądu.","- Mantén un ojo en los traidores.
+- Usa tu mejor criterio.","- Halte Ausschau nach Verrätern.
+- Nutze dein bestes Urteilsvermögen.","- Fique atento a traidores.
+- Use o seu melhor julgamento.","- Gardez un œil sur les traîtres.
+- Utilisez votre meilleur jugement.","- 裏切り者に注意してください。
+- 最善の判断を使用してください。","- Будьте на чеку: здесь есть предатели.
+- Используйте свое лучшее суждение.","- Hainlere dikkat et.
+- En iyi yargını kullan.","- احترس من الخونة.
+- استخدم أفضل تقدير لديك.","- Dej si pozor na zrádce.
+- Použijte svůj nejlepší úsudek.","- ระวังคนทรยศ
+- ใช้คำพิพากษาที่ดีที่สุดของคุณ","- Waspadai pengkhianat.
+- Gunakan pertimbangan terbaik Anda.","- Let op voor verraders.
+- Gebruik je beste oordeel.","- Hãy để mắt đến kẻ phản bội.
+- Sử dụng sự phán đoán tốt nhất của bạn.","- 배신자를 주의하십시오.
+- 당신의 최선의 판단을 사용하십시오.","- 留意叛徒。
+- 使用您最好的判断。","- 留意叛徒。
+- 使用您最好的判斷。","- Saugokis išdavikų.
+- Naudok savo geriausią nuosprendį.","- Будьте уважні, є зрадники.
+- Використовуйте свій кращий розсуд.","- Esiet uzmanīgi pret nodevējiem.
+- Izmantojiet savu labāko spriedumu.","- ध्यान रखें, यहां ग़द्दार हो सकते हैं।
+- अपनी सर्वोत्तम विवेक शक्ति का उपयोग करें।","- Προσέξτε για προδότες.
+- Χρησιμοποιήστε την καλύτερη κρίση σας.","- Fique de olho em traidores.
+- Use seu melhor julgamento."
+"GoalsAsInnocent","- Goals as an innocent -","- Obiettivi come innocente -","- Cele jako niewinny -","- Objetivos como inocente -","- Ziele als Unschuldiger -","- Objetivos como inocente -","- Objectifs en tant qu'innocent -","- 無実としての目標 -","- Цели как невинный -","- Masum olarak hedefler -","- أهداف كبريء -","- Cíle jako nevinný -","- เป้าหมายในฐานะผู้บริสุทธิ์ -","- Tujuan sebagai orang tak bersalah -","- Doelen als onschuldige -","- Mục tiêu như là một người vô tội -","- 무죄로서의 목표 -","- 作为无辜者的目标 -","- 作為無辜者的目標 -","- Tikslai kaip nekaltas -","- Мета як невинний -","- Mērķi kā nevainīgais -","- निर्दोष के रूप में लक्ष्य -","- Στόχοι ως αθώος -","- Objetivos como inocente -"
+"GoalsAsTraitor","- Goals as a traitor -","- Obiettivi come traditore -","- Cele jako zdrajca -","- Objetivos como traidor -","- Ziele als Verräter -","- Objetivos como traidor -","- Objectifs en tant que traître -","- 裏切り者としての目標 -","- Цели как предатель -","- Hain olarak hedefler -","- أهداف كخائن -","- Cíle jako zrádce -","- เป้าหมายในฐานะผู้ทรยศ -","- Tujuan sebagai pengkhianat -","- Doelen als verrader -","- Mục tiêu như là kẻ phản bội -","- 배신자로서의 목표 -","- 作为叛徒的目标 -","- 作為叛徒的目標 -","- Tikslai kaip išdavikas -","- Мета як зрадник -","- Mērķi kā nodevējs -","- गद्दार के रूप में लक्ष्य -","- Στόχοι ως προδότης -","- Objetivos como traidor -"
+"KillInnocents","Kill innocents","Uccidi innocenti","Zabij niewinnych","Matar inocentes","Unschuldige töten","Matar inocentes","Tuer les innocents","無実の人々を殺す","Убить невиновных","Masumları öldür","قتل الأبرياء","Zabij nevinné","ฆ่าคนไม่รู้เป็น","Membunuh orang tak bersalah","Onschuldigen doden","Giết người vô tội","무고한 사람을 죽이다","杀害无辜","殺害無辜","Nekaltus nužudyti","Вбивство невинних","Nevainīgus nogalināt","मासूमों को मारो","Σκοτώστε αθώους","Matar inocentes"
+"KillInnocents_Description","Tasks Completed","Missioni Completate","Zadania Ukończone","Tareas Completadas","Aufgaben abgeschlossen","Tarefas Concluídas","Tâches Terminées","タスク完了","Задания Выполнены","Görevler Tamamlandı","المهام المكتملة","Úkoly Splněny","ภารกิจสำเร็จ","Tugas Selesai","Taken Voltooid","Nhiệm Vụ Hoàn Thành","과제 완료","任务完成","任務完成","Užduotys Įvykdytos","Завдання Виконано","Uzdevumi Pabeigti","कार्य पूरे हुए","Ολοκληρωμένες Αποστολές","Tarefas Concluídas"
+"PreventTaskCompletion","Prevent task completion","Impedisci il completamento del compito","Zapobiegaj ukończeniu zadań","Evitar la finalización de la tarea","Verhindere die Aufgabenerfüllung","Evitar a conclusão da tarefa","Empêcher l'achèvement des tâches","タスクの完了を防ぐ","Предотвратить завершение задания","Görev tamamlamayı engelle","منع اكتمال المهمة","Zabránit dokončení úkolů","ป้องกันการเสร็จสิ้นงาน","Cegah penyelesaian tugas","Voorkom taakvoltooiing","Ngăn chặn hoàn thành nhiệm vụ","작업 완료를 방지하다","防止任务完成","防止任務完成","Užkirsti kelią užduočių atlikimui","Запобігти виконанню завдання","Novērst uzdevuma pabeigšanu","कार्य पूरा करने से रोकें","Αποτρέψτε την ολοκλήρωση του καθήκοντος","Evitar a conclusão da tarefa"
+"PreventTaskCompletion_Description","- Stop innocents from completing tasks and escaping!","- Ferma gli innocenti dal completare i compiti e fuggire!","- Powstrzymaj niewinnych przed ukończeniem zadań i ucieczką!","- ¡Detén a los inocentes de completar tareas y escapar!","- Halte Unschuldige davon ab, Aufgaben zu erfüllen und zu entkommen!","- Impeça os inocentes de completar tarefas e escapar!","- Empêchez les innocents de terminer les tâches et de s'échapper !","- 無実の人々がタスクを完了して逃げるのを止めて！","- Остановите невиновных от выполнения заданий и побега!","- Masumları görevleri tamamlamaktan ve kaçmaktan alıkoy!","- منع الأبرياء من إكمال المهام والهروب!","- Zastavte nevinné, aby dokončili úkoly a unikli!","- หยุดคนไม่รู้เป็นจากการเสร็จสิ้นงานและหนี!","- Hentikan orang tak bersalah dari menyelesaikan tugas dan melarikan diri!","- Voorkom dat onschuldigen taken voltooien en ontsnappen!","- Ngăn chặn người vô tội hoàn thành nhiệm vụ và trốn thoát!","- 무고한 사람들이 작업을 완료하고 도망치는 것을 막으십시오!","- 阻止无辜者完成任务并逃跑！","- 阻止無辜者完成任務並逃跑！","- Sustabdyk nekaltuosius nuo užduočių atlikimo ir pabėgimo!","- Зупиніть невинних від виконання завдань і втечі!","- Novērsiet nevainīgus cilvēkus no uzdevumu pabeigšanas un bēgšanas!","- मासूमों को कार्य पूरा करने और भाग जाने से रोकें!","- Σταματήστε τους αθώους από το να ολοκληρώσουν τα καθήκοντα και να δραπετεύσουν!","- Impeça os inocentes de completar tarefas e escapar!"
+"SurviveAndEscape","Survive & escape","Sopravvivi & fuggi","Przetrwaj & ucieknij","Sobrevive & escapa","Überleben & entkommen","Sobreviver & escapar","Survivre & s'échapper","生き残って逃げる","Выжить & сбежать","Hayatta Kal & Kaç","البقاء على قيد الحياة & الهروب","Přežít & uniknout","รอดตาย & หนี","Selamat & kabur","Overleven & ontsnappen","Sống sót & thoát","생존하고 탈출하다","生存 & 逃脱","生存 & 逃脫","Išgyventi & pabėgti","Вижити & втекти","Izdzīvot & izbēgt","जीने और भाग जाने","Επιβίωση & διαφυγή","Sobreviver & escapar"
+"SurviveAndEscape_Description","- Escape ladder will appear automatically once main task is completed
+- Survive against traitors and other dangers!","- La scala di fuga apparirà automaticamente una volta completato il compito principale
+- Sopravvivi contro i traditori e altri pericoli!","- Drabina ucieczki pojawi się automatycznie po ukończeniu głównego zadania
+- Przetrwaj przeciwko zdrajcom i innym zagrożeniom!","- La escalera de escape aparecerá automáticamente una vez completada la tarea principal
+- ¡Sobrevive contra traidores y otros peligros!","- Die Fluchtleiter erscheint automatisch, sobald die Hauptaufgabe abgeschlossen ist
+- Überlebe gegen Verräter und andere Gefahren!","- A escada de fuga aparecerá automaticamente assim que a tarefa principal for concluída
+- Sobreviva contra traidores e outros perigos!","- L'échelle de fuite apparaîtra automatiquement une fois la tâche principale terminée
+- Survivez contre les traîtres et autres dangers !","- 主要なタスクが完了すると、逃走用のはしごが自動的に表示されます
+- 裏切り者や他の危険に対して生き残って！","- Лестница для побега появится автоматически, как только основное задание будет выполнено
+- Выживайте против предателей и других опасностей!","- Merdiven ana görev tamamlandıktan sonra otomatik olarak çıkacaktır
+- Hainlere ve diğer tehlikelere karşı hayatta kalın!","- ستظهر سلم الهروب تلقائيًا بمجرد اكتمال المهمة الرئيسية
+- البقاء على قيد الحياة ضد الخونة والمخاطر الأخرى!","- Únikový žebřík se automaticky objeví, jakmile bude hlavní úkol dokončen
+- Přežijte proti zrádcům a dalším nebezpečím!","- บันไดหนีจะปรากฏขึ้นอัตโนมัติเมื่อเสร็จสิ้นงานหลัก
+- รอดตายจากคนที่ทรยศและอันตรายอื่น ๆ!","- Tangga pelarian akan muncul secara otomatis setelah tugas utama selesai
+- Bertahan hidup melawan pengkhianat dan bahaya lainnya!","- De vluchtladder verschijnt automatisch zodra de hoofdtaak is voltooid
+- Overleef tegen verraders en andere gevaren!","- Cầu thang thoát hiểm sẽ tự động xuất hiện khi nhiệm vụ chính hoàn thành
+- Sống sót chống lại kẻ phản bội và các nguy hiểm khác!","- 주요 작업이 완료되면 탈출용 사다리가 자동으로 나타납니다
+- 배신자와 다른 위험에 대해서도 생존하세요!","- 一旦完成主要任务，逃生梯将自动出现
+- 对抗叛徒和其他危险生存！","- 一旦完成主要任務，逃生梯將自動出現
+- 對抗叛徒和其他危險生存！","- Pabėgimo kopėčios automatiškai pasirodys, kai pagrindinė užduotis bus atlikta
+- Išgyvenk prieš išdavikus ir kitas grėsmes!","- Сходи для втечі з'являться автоматично, як тільки основне завдання буде виконано
+- Виживайте проти зрадників та інших небезпек!","- Bēgšanas kāpnes parādīsies automātiski, tiklīdz galvenais uzdevums tiks pabeigts
+- Izdzīvot pret nodevējiem un citiem bīstamības avotiem!","- मुख्य कार्य पूरा होने के बाद भाग जाने की सीढ़ी स्वत: ही दिखाई देगी
+- धोखेबाजों और अन्य खतरों के खिलाफ जीने!","- Η σκάλα διαφυγής θα εμφανιστεί αυτόματα μόλις ολοκληρωθεί η κύρια αποστολή
+- Επιβίωση απέναντι σε προδότες και άλλους κινδύνους!","- A escada de fuga aparecerá automaticamente assim que a tarefa principal for concluída
+- Sobreviva contra traidores e outros perigos!"
+"Tutorial","Tutorial","Tutorial","Samouczek","Tutorial","Tutorial","Tutorial","Tutoriel","チュートリアル","Учебник","Eğitim","دليل","Tutoriál","บทเรียน","Tutorial","Tutorial","Hướng dẫn","튜토리얼","教程","教程","Mokymo programa","Підручник","Apmācība","ट्यूटोरियल","Οδηγός","Tutorial"
+"CarrotHike","Carrot Hike","Escursione delle carote","Wędrówka za marchewką","Senderismo de zanahorias","Karottenwanderung","Caminhada da Cenoura","Randonnée de carottes","ニンジンハイキング","Поход за морковью","Havuç Yürüyüşü","رحلة الجزر","Pochod za mrkvemi","เดินป่าหาแครอท","Pendakian Wortel","Wortelwandeling","Đi bộ đường dài tìm cà rốt","당근 하이킹","胡萝卜徒步","胡蘿蔔徒步","Morkų žygis","Похід за морквою","Burkānu pārgājiens","गाजर हाइक","Πεζοπορία με Καρότα","Caminhada da Cenoura"
+"CarrotHike_Description","Allows you to dash without dropping the carrot","Ti permette di correre senza far cadere la carota","Pozwala ci biec bez upuszczania marchewki","Te permite correr sin soltar la zanahoria","Ermöglicht es Ihnen, zu rennen, ohne die Karotte fallen zu lassen","Permite correr sem largar a cenoura","Vous permet de courir sans lâcher la carotte","にんじんを落とさずにダッシュできます","Позволяет бежать, не роняя морковь","Havucu düşürmeden koşmana izin verir","يتيح لك الركض دون إسقاط الجزر","Umožňuje vám běžet, aniž byste upustili mrkev","ช่วยให้คุณวิ่งได้โดยไม่ต้องหย่อนแครอท","Memungkinkan Anda berlari tanpa menjatuhkan wortel","Stelt je in staat te rennen zonder de wortel te laten vallen","Cho phép bạn chạy mà không làm rơi cà rốt","당근을 떨어뜨리지 않고 뛸 수 있습니다","让您可以冲刺而不掉落胡萝卜","讓您可以衝刺而不掉落胡蘿蔔","Leidžia bėgti nepaleidus morkos","Дозволяє бігти, не скидаючи моркву","Ļauj skriet, nepametot burkānu","आपको गाजर को गिराए बिना दौड़ने की अनुमति देता है","Σας επιτρέπει να τρέξετε χωρίς να ρίξετε το καρότο","Permite correr sem soltar a cenoura"
+"Currency","Currency:","Valuta:","Waluta:","Moneda:","Währung:","Moeda:","Devise:","通貨:","Валюта:","Para Birimi:","عملة:","Měna:","สกุลเงิน:","Mata Uang:","Valuta:","Tiền tệ:","통화:","货币:","貨幣:","Valiuta:","Валюта:","Valūta:","मुद्रा:","Νόμισμα:","Moeda:"
+"FasterJumps","Faster jumps","Salti più veloci","Szybsze skoki","Saltos más rápidos","Schnellere Sprünge","Saltos mais rápidos","Sauts plus rapides","ジャンプが速い","Быстрые прыжки","Daha Hızlı Zıplamalar","قفزات أسرع","Rychlejší skoky","กระโดดเร็วขึ้น","Lompatan Lebih Cepat","Snellere sprongen","Nhảy nhanh hơn","빠른 점프","更快的跳跃","更快的跳躍","Greitesni šuoliai","Швидкі стрибки","Ātrāki lēcieni","तेजी से कूदें","Ταχύτερα Άλματα","Saltos mais rápidos"
+"GlobalWarming","Global Warming","Riscaldamento globale","Globalne ocieplenie","Calentamiento global","Globale Erwärmung","Aquecimento global","Réchauffement climatique","地球温暖化","Глобальное потепление","Küresel Isınma","الاحتباس الحراري","Globální oteplování","โลกร้อน","Pemanasan Global","Opwarming van de aarde","Biến đổi khí hậu","지구 온난화","全球变暖","全球暖化","Globalinis atšilimas","Глобальне потепління","Globālā sasilšana","वैश्विक तापन","Παγκόσμια Θέρμανση","Aquecimento global"
+"GlobalWarming_Description","Winter is coming, but is delayed by one minute per upgrade.","L'inverno sta arrivando, ma è ritardato di un minuto per ogni aggiornamento.","Zima nadchodzi, ale opóźniona jest o minutę za każdą ulepszenie.","El invierno está llegando, pero se retrasa un minuto por cada mejora.","Der Winter kommt, wird aber pro Upgrade um eine Minute verzögert.","O inverno está chegando, mas é adiado em um minuto por atualização.","L'hiver arrive, mais est retardé d'une minute par mise à niveau.","冬が来ますが、アップグレードごとに1分遅れます。","Зима идет, но задерживается на одну минуту за каждое улучшение.","Kış geliyor, ama her yükseltmeyle bir dakika gecikiyor.","الشتاء قادم، لكنه يتأخر دقيقة واحدة لكل ترقية.","Zima se blíží, ale je zpožděna o jednu minutu za každý upgrade.","หนาวกำลังมา แต่จะหน่วงไป 1 นาทีต่อการอัพเกรด","Musim dingin datang, tetapi tertunda satu menit per peningkatan.","De winter komt eraan, maar wordt met één minuut vertraagd per upgrade.","Mùa đông đang đến, nhưng bị trễ một phút cho mỗi lần nâng cấp.","겨울이 오고 있지만, 업그레이드 당 1분씩 지연됩니다.","冬天即将来临，但每次升级都会延迟一分钟。","冬天即將來臨，但每次升級都會延遲一分鐘。","Žiema ateina, bet vėluoja vieną minutę už kiekvieną atnaujinimą.","Зима наближається, але затримується на одну хвилину за кожне оновлення.","Ziema tuvojas, bet tiek aizkavēta par vienu minūti ar katru jauninājumu.","सर्दियां आ रही हैं, लेकिन हर अपग्रेड के साथ एक मिनट देरी हो रही है।","Ο χειμώνας έρχεται, αλλά καθυστερεί ένα λεπτό ανά αναβάθμιση.","O inverno está chegando, mas é adiado em um minuto por atualização."
+"LegDay","Leg-day","Giorno-gamba","Dzień nóg","Día de piernas","Beintag","Dia de perna","Jour de jambes","脚の日","День ног","Bacak Günü","يوم الساقين","Den nohou","วันขา","Hari Kaki","Beendag","Ngày Chân","다리 날","腿日","腿日","Kojų diena","День ніг","Kāju diena","पैर का दिन","Ημέρα Ποδιών","Dia de perna"
+"LegDay_Description","Jump distance extended by considerable amount per upgrade","La distanza del salto aumenta notevolmente ad ogni aggiornamento.","Odległość skoku znacząco się zwiększa po każdym ulepszeniu.","La distancia del salto se extiende considerablemente con cada mejora.","Sprungdistanz wird pro Upgrade erheblich verlängert.","Distância do salto aumentada consideravelmente a cada atualização.","La distance de saut est considérablement étendue à chaque mise à niveau.","ジャンプ距離が、各アップグレードでかなり延長されます。","Дистанция прыжка значительно увеличивается с каждым улучшением.","Her yükseltmeyle sıçrama mesafesi oldukça artar.","مسافة القفز تمتد بشكل كبير مع كل ترقية.","Skok se prodlužuje o významnou vzdálenost po každém vylepšení.","ระยะกระโดดขยายอย่างมากต่อการอัพเกรด","Jarak lompat diperpanjang secara signifikan per peningkatan.","De sprongafstand wordt aanzienlijk verlengd per upgrade.","Khoảng cách nhảy được mở rộng đáng kể sau mỗi lần nâng cấp.","점프 거리가 업그레이드 당 상당히 연장됩니다.","跳跃距离在每次升级后都会显著增加。","跳躍距離在每次升級後都會顯著增加。","Šuolio atstumas smarkiai padidėja su kiekvienu atnaujinimu.","Відстань стрибка значно збільшується з кожним оновленням.","Lēcienu attālums ar katru jauninājumu tiek ievērojami pagarināts.","कूद की दूरी हर अपग्रेड के साथ काफी बढ़ जाती है।","Η απόσταση άλματος επεκτείνεται σημαντικά ανά αναβάθμιση.","A distância do salto é estendida consideravelmente a cada atualização."
+"MinersHelmet","Miner's Helmet","Elmo del Minatore","Kask Górnika","Casco de Minero","Bergmannshelm","Capacete do Mineiro","Casque de mineur","鉱山労働者のヘルメット","Шлем шахтера","Madenci Kaskı","خوذة العامل في المنجم","Přilba horníka","หมวกเหมือง","Helm Penambang","Mijnwerkershelm","Mũ bảo hộ của thợ mỏ","광부의 헬멧","矿工头盔","礦工頭盔","Kasykėlis","Шахтарський шолом","Kalnrūpnieka ķivere","खदान का हेलमेट","Κράνος Εργάτη Ορυχείου","Capacete de Mineiro"
+"MinersHelmet_Description","When things seem most dark, it will show you the light","Quando tutto sembra più oscuro, ti mostrerà la luce.","Kiedy jest najciemniej, ona pokaże ci światło.","Cuando todo parece más oscuro, te mostrará la luz.","Wenn alles am dunkelsten erscheint, wird es dir das Licht zeigen.","Quando as coisas parecerem mais escuras, ele mostrará a luz.","Quand tout semble le plus sombre, il vous montrera la lumière.","最も暗いとき、それはあなたに光を示してくれます。","Когда кажется, что всё наиболее тёмно, он покажет тебе свет.","Her şey en karanlık olduğunda, size ışığı gösterecektir.","عندما تبدو الأمور أكثر سوادًا، سيظهر لك الضوء.","Když se věci zdají být nejtemnější, ukáže vám světlo.","เมื่อสิ่งที่คุณเห็นดูมืดมิดที่สุด มันจะแสดงแสงให้คุณเห็น","Ketika segalanya tampak sangat gelap, ia akan menunjukkan cahaya.","Wanneer alles op z'n donkerst lijkt, zal het je het licht laten zien.","Khi mọi thứ có vẻ tối tăm nhất, nó sẽ chỉ cho bạn ánh sáng.","가장 어두울 때, 그것은 당신에게 빛을 보여줄 것입니다.","当一切看似最黑暗时，它会给你带来光明。","當一切看似最黑暗時，它會給你帶來光明。","Kai viskas atrodo labiausiai tamsu, jis parodys šviesą.","Коли все здається найбільш темним, він покаже тобі світло.","Kad viss šķiet vismelanholiskākais, tas parādīs tev gaismu.","जब सब कुछ सबसे अधिक अंधकारमय होता है, यह आपको प्रकाश दिखाएगा।","Όταν όλα φαίνονται πιο σκοτεινά, θα σας δείξει το φως.","Quando tudo parece mais escuro, ele mostrará a luz."
+"MoreLives","More Lives","Più Vite","Więcej żyć","Más Vidas","Mehr Leben","Mais Vidas","Plus de Vies","追加ライフ","Дополнительные жизни","Daha Fazla Hayat","حياة إضافية","Více životů","ชีวิตเพิ่มเติม","Lebih Banyak Nyawa","Meer Levens","Thêm Mạng","더 많은 생명","更多生命","更多生命","Daugiau Gyvybių","Більше життів","Vairāk dzīvotāju","अधिक जीवन","Περισσότερες Ζωές","Mais Vidas"
+"MoreLives_Description","One additional life per upgrade","Una vita aggiuntiva per potenziamento","Jedno dodatkowe życie za każdy poziom","Una vida adicional por mejora","Ein zusätzliches Leben pro Levelup","Uma vida adicional por nível","Une vie supplémentaire par niveau","レベルアップごとに追加のライフ","Одна дополнительная жизнь за каждый уровень","Her seviye için bir ekstra hayat","حياة إضافية لكل مستوى","Jeden navíc život za každý level","ชีวิตเพิ่มเติมต่อเลเวลหนึ่งครั้ง","Satu nyawa tambahan per level","Een extra leven per niveau","Một mạng thêm cho mỗi cấp độ","레벨업당 추가 생명 하나","每级增加一条生命","每級增加一條生命","Vienas papildomas gyvybė už kiekvieną lygį","Одне додаткове життя за кожний рівень","Viena papildu dzīve par katru līmeni","हर स्तर पर एक अतिरिक्त जीवन","Ένας επιπλέον βίος ανά επίπεδο","Uma vida adicional por nível"
+"PermanentUpgrades","Permanent Upgrades","Aggiornamenti Permanenti","Stałe ulepszenia","Actualizaciones Permanentes","Dauerhafte Upgrades","Atualizações Permanentes","Améliorations Permanentes","永続的なアップグレード","Постоянные улучшения","Kalıcı Yükseltmeler","ترقيات دائمة","Trvalé vylepšení","การอัพเกรดถาวร","Peningkatan Permanen","Permanente Upgrades","Nâng cấp Vĩnh Viễn","영구 업그레이드","永久升级","永久升級","Nuolatiniai atnaujinimai","Постійні оновлення","Pastāvīgas uzlabojumi","स्थायी उन्नतियाँ","Μόνιμες Αναβαθμίσεις","Atualizações Permanentes"
+"ThickFur","Thick Fur","Pelo Spesso","Gruba sierść","Piel Gruesa","Dickes Fell","Pelo Espesso","Fourrure Épaisse","厚い毛皮","Густая шерсть","Kalın Kürk","فراء ثخين","Hustá srst","ขนหนา","Bulu Tebal","Dikke Vacht","Lông Dày","두꺼운 털","厚毛皮","厚毛皮","Storas kailis","Густе хутро","Bieza spalva","मोटी खाल","Πυκνή Γούνα","Pelo Espesso"
+"ThickFur_Description","Each upgrade lowers the effect of cold by 10%","Ogni potenziamento riduce l'effetto del freddo del 10%","Każdy poziom zmniejsza efekt zimna o 10%","Cada mejora reduce el efecto del frío en un 10%","Jedes Levelup reduziert den Kälteeffekt um 10%","Cada nível reduz o efeito do frio em 10%","Chaque niveau réduit l'effet du froid de 10%","各レベルアップで寒さの影響を10％軽減","Каждый уровень снижает эффект холода на 10%","Her seviye soğuğun etkisini %10 azaltır","كل مستوى يقلل من تأثير البرد بنسبة 10%","Každý level snižuje efekt chladu o 10%","ทุกเลเวลจะลดผลของความหนาวลง 10%","Setiap level mengurangi efek dingin sebesar 10%","Elk niveau vermindert het koude-effect met 10%","Mỗi cấp độ giảm hiệu ứng của lạnh xuống 10%","레벨업마다 추위의 영향을 10% 줄입니다","每级降低寒冷效果10%","每級降低寒冷效果10%","Kiekvienas lygis sumažina šalčio efektą 10%","Кожний рівень зменшує ефект холоду на 10%","Katrs līmenis samazina aukstuma efektu par 10%","हर स्तर से ठंड का प्रभाव 10% कम करता है","Κάθε επίπεδο μειώνει το αποτέλεσμα του κρύου κατά 10%","Cada nível reduz o efeito do frio em 10%"
+"Upgrade","Upgrade","Migliora","Ulepsz","Mejora","Aufrüsten","Melhorar","Améliorer","アップグレード","Улучшение","Yükseltme","ترقية","Vylepšení","อัพเกรด","Peningkatan","Opwaarderen","Nâng cấp","업그레이드","升级","升級","Patobulinimas","Покращення","Uzlabot","अपग्रेड","Αναβάθμιση","Melhorar"
+"WheelBarrow_Description","Adds wheelbarrows - useful for carrying multiple things at once","Aggiunge carriole - utili per trasportare più oggetti contemporaneamente","Dodaje taczki - przydatne do noszenia wielu rzeczy naraz","Añade carretillas - útiles para llevar varias cosas a la vez","Fügt Schubkarren hinzu - nützlich, um mehrere Dinge auf einmal zu tragen","Adiciona carrinhos de mão - úteis para carregar várias coisas de uma vez","Ajoute des brouettes - utiles pour transporter plusieurs choses à la fois","手押し車を追加 - 一度に複数のものを運ぶのに便利","Добавляет тачки - полезно для переноски нескольких вещей за раз","El arabaları ekler - bir seferde birden fazla şey taşımak için kullanışlı","يضيف عربات اليد - مفيدة لحمل عدة أشياء في آن واحد","Přidává tačky - užitečné pro přenášení více věcí najednou","เพิ่มรถเข็น - มีประโยชน์สำหรับการหายของหลายอย่างในคราวเดียว","Menambahkan gerobak - berguna untuk membawa banyak benda sekaligus","Voegt kruiwagens toe - handig voor het dragen van meerdere dingen tegelijk","Thêm xe cút kít - hữu ích để mang theo nhiều thứ cùng lúc","수레를 추가 - 한 번에 여러 가지를 옮기기에 유용","添加手推车 - 用于一次携带多件物品","添加手推車 - 用於一次攜帶多件物品","Prideda vežimėlius - naudinga nešti keletą daiktų iš karto","Додає тачки - корисно для перенесення кількох речей за раз","Pievieno rokas ratus - noderīgi, lai vienlaicīgi nestu vairākas lietas","एक साथ कई चीजें ले जाने के लिए उपयोगी - हाथगाड़ि जोड़ता है","Προσθέτει τσαπιά - χρήσιμα για τη μεταφορά πολλαπλών αντικειμένων ταυτόχρονα","Adiciona carrinhos de mão - úteis para carregar várias coisas de uma vez"
+"YoureDashing_Description","Reduces jump cooldown","Riduce il tempo di recupero del salto","Zmniejsza czas odnowienia skoku","Reduce el tiempo de reutilización del salto","Verringert die Sprung-Abklingzeit","Reduz o tempo de recarga do salto","Réduit le temps de récupération du saut","ジャンプのクールダウンを短縮","Уменьшает время перезарядки прыжка","Zıplama soğuma süresini azaltır","يقلل من وقت التبريد للقفز","Sníží dobu obnovení skoku","ลดเวลาหยุดของการกระโดด","Mengurangi waktu pendinginan lompat","Verlaagt de afkoeltijd van springen","Giảm thời gian hồi phục nhảy","점프 쿨다운을 줄입니다","减少跳跃冷却时间","減少跳躍冷卻時間","Mažina šuolio atsistatymo laiką","Зменшує час перезарядки стрибка","Samazina lēcienu atveseļošanās laiku","कूदने के ठंडाने का समय कम करता है","Μειώνει τον χρόνο ψύξης του άλματος","Reduz o tempo de recarga do salto"
+"WelcomeMessage","Dear Player,
+
+
+You are currently experiencing an early build of our game, and we want you to know that what you see is just the beginning.
+
+Our team is working diligently to enhance this experience, with many exciting new features and performance improvements on the horizon.
+
+If you find our game engaging and promising, please consider adding it to your <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">wishlist on Steam. 
+</color></link></u>
+
+This small action helps us greatly in terms of visibility and spreading the word about our game to more players like you.
+
+
+Game on,
+
+Nocebo Games","Gentile giocatore,
+
+Stai attualmente provando una versione preliminare del nostro gioco e vogliamo che tu sappia che quello che vedi è solo l'inizio.
+
+Il nostro team sta lavorando con impegno per migliorare questa esperienza, con molte nuove entusiasmanti funzionalità e miglioramenti delle prestazioni all'orizzonte.
+
+Se trovi il nostro gioco coinvolgente e promettente, ti invitiamo ad aggiungerlo alla tua <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">lista dei desideri su Steam. 
+</color></link></u>
+
+Questo piccolo gesto ci aiuta enormemente in termini di visibilità e per diffondere la voce sul nostro gioco a più giocatori come te.
+
+
+Nocebo Games
+","Szanowny Graczu,
+
+Obecnie doświadczasz wczesnej wersji naszej gry i chcemy, abyś wiedział, że to, co widzisz, to dopiero początek.
+
+Nasz zespół pracuje nieustannie nad ulepszeniem tej przygody, z wieloma ekscytującymi nowymi funkcjami i ulepszeniami wydajności na horyzoncie.
+
+Jeśli uważasz naszą grę za angażującą i obiecującą, rozważ dodanie jej do swojej <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">listy życzeń na Steam.
+</color></link></u>
+
+Ta niewielka akcja znacznie nam pomaga pod względem widoczności i rozpowszechniania informacji o naszej grze wśród graczy takich jak Ty.
+
+
+Nocebo Games
+","Estimado jugador,
+
+Actualmente estás experimentando una versión preliminar de nuestro juego, y queremos que sepas que lo que ves es solo el comienzo.
+
+Nuestro equipo está trabajando arduamente para mejorar esta experiencia, con muchas nuevas y emocionantes características y mejoras de rendimiento en el horizonte.
+
+Si encuentras nuestro juego atractivo y prometedor, por favor considera añadirlo a tu <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">lista de deseos en Steam.
+</color></link></u>
+
+Esta pequeña acción nos ayuda enormemente en términos de visibilidad y en difundir la palabra sobre nuestro juego a más jugadores como tú.
+
+
+Nocebo Games
+","Lieber Spieler,
+
+Du erlebst gerade einen frühen Entwicklungsstand unseres Spiels und wir möchten, dass du weißt, dass das, was du siehst, erst der Anfang ist.
+
+Unser Team arbeitet fleißig daran, diese Erfahrung zu verbessern, mit vielen aufregenden neuen Funktionen und Leistungsverbesserungen am Horizont.
+
+Wenn du unser Spiel ansprechend und vielversprechend findest, erwäge bitte, es zu deiner <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">Wunschliste auf Steam hinzuzufügen.
+</color></link></u>
+
+Diese kleine Aktion hilft uns sehr in Bezug auf Sichtbarkeit und das Verbreiten des Wortes über unser Spiel zu mehr Spielern wie dir.
+
+
+Nocebo Games
+","Prezado jogador,
+
+Você está atualmente experimentando uma versão inicial do nosso jogo e queremos que você saiba que o que você vê é apenas o começo.
+
+Nossa equipe está trabalhando diligentemente para aprimorar essa experiência, com muitos novos recursos empolgantes e melhorias de desempenho a caminho.
+
+Se você achar nosso jogo envolvente e promissor, considere adicioná-lo à sua <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">lista de desejos no Steam.
+</color></link></u>
+
+Essa pequena ação nos ajuda muito em termos de visibilidade e a espalhar a palavra sobre o nosso jogo para mais jogadores como você.
+
+
+Nocebo Games
+","Cher joueur,
+
+Vous faites actuellement l'expérience d'une version préliminaire de notre jeu, et nous tenons à vous dire que ce que vous voyez n'est que le début.
+
+Notre équipe travaille avec assiduité pour améliorer cette expérience, avec de nombreuses nouvelles fonctionnalités passionnantes et des améliorations de performance à venir.
+
+Si vous trouvez notre jeu engageant et prometteur, veuillez envisager de l'ajouter à votre <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">liste de souhaits sur Steam.
+</color></link></u>
+
+Cette petite action nous aide grandement en termes de visibilité et pour faire passer le mot sur notre jeu à plus de joueurs comme vous.
+
+
+Nocebo Games
+","親愛なるプレイヤー様、
+
+現在、当社のゲームの初期ビルドを体験していただいており、これは始まりに過ぎないことをお知らせします。
+
+私たちのチームは、多くのエキサイティングな新機能とパフォーマンスの向上をもたらすために、精力的に作業を進めています。
+
+もしご自身のゲームを魅力的かつ有望だと感じたら、ぜひ<u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">Steamのウィッシュリストに追加</color></link></u>をご検討ください。
+
+この小さな行動が、より多くのプレイヤーにゲームを知ってもらうための視認性と啓蒙に大いに役立ちます。
+
+
+Nocebo Games
+","Уважаемый игрок,
+
+Сейчас вы испытываете раннюю версию нашей игры, и мы хотим, чтобы вы знали, что это только начало.
+
+Наша команда усердно работает над улучшением этого опыта, и вас ждут многие захватывающие новые функции и улучшения производительности.
+
+Если наша игра вам интересна и многообещающа, пожалуйста, добавьте её в свой <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">список желаемого на Steam.
+</color></link></u>
+
+Это небольшое действие значительно помогает нам в плане видимости и распространения информации о нашей игре среди игроков, таких как вы.
+
+
+Nocebo Games
+","Sayın Oyuncu,
+
+Şu an oyunumuzun erken bir yapısını deneyimliyorsunuz ve bunun sadece başlangıç olduğunu bilmenizi isteriz.
+
+Ekibimiz, ufukta birçok heyecan verici yeni özellik ve performans iyileştirmeleri ile bu deneyimi geliştirmek için özveriyle çalışıyor.
+
+Eğer oyunumuzu sürükleyici ve umut verici buluyorsanız, lütfen <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">Steam'deki dilek listenize eklemeyi</color></link></u> düşünün.
+
+Bu küçük eylem, oyunumuzu sizin gibi daha fazla oyuncuya duyurmamız açısından büyük önem taşıyor.
+
+
+Nocebo Games","عزيزي اللاعب،
+
+أنت الآن تختبر نسخة أولية من لعبتنا، ونود أن تعلم أن ما تراه هو مجرد البداية.
+
+فريقنا يعمل بجد لتحسين هذه التجربة، مع العديد من الميزات الجديدة المثيرة وتحسينات الأداء المتوقعة.
+
+إذا وجدت لعبتنا جذابة وواعدة، يرجى النظر في إضافتها إلى <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">قائمة الأماني على Steam.
+</color></link></u>
+
+هذا الفعل البسيط يساعدنا كثيرًا من حيث الرؤية ونشر الكلمة عن لعبتنا للاعبين أكثر مثلك.
+
+
+Nocebo Games","Vážený hráči,
+
+Právě prožíváte ranou verzi naší hry a chceme, abyste věděli, že to, co vidíte, je teprve začátek.
+
+Náš tým pracuje usilovně na vylepšení tohoto zážitku, s mnoha vzrušujícími novými funkcemi a výkonovými vylepšeními na obzoru.
+
+Pokud vám naše hra připadá poutavá a slibná, zvažte prosím její přidání do vašeho <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">seznamu přání na Steamu.
+</color></link></u>
+
+Tento malý krok nám velmi pomáhá z hlediska viditelnosti a šíření slova o naší hře mezi hráče jako jste vy.
+
+
+Nocebo Games","เรียนผู้เล่นที่เคารพ,
+
+ขณะนี้คุณกำลังสัมผัสประสบการณ์เวอร์ชั่นต้นแบบของเกมของเรา และเราต้องการให้คุณทราบว่าสิ่งที่คุณเห็นนั้นเป็นเพียงจุดเริ่มต้นเท่านั้น
+
+ทีมของเรากำลังทุ่มเทให้กับการปรับปรุงประสบการณ์นี้อย่างไม่ลดละ โดยมีคุณสมบัติใหม่ๆที่น่าตื่นเต้นและการปรับปรุงประสิทธิภาพอีกมากมายที่กำลังจะมาถึง
+
+หากคุณพบว่าเกมของเราน่าสนใจและมีแนวโน้มที่ดี โปรดพิจารณาเพิ่มมันไปยัง<u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">สิ่งที่อยากได้ใน Steam ของคุณ
+</color></link></u>
+
+การกระทำเล็กๆน้อยๆนี้ช่วยเราได้มากในเรื่องของการเห็นและการเผยแพร่เกมของเราให้กับผู้เล่นเช่นคุณ
+
+
+Nocebo Games
+","Kepada Pemain yang terhormat,
+
+Saat ini Anda sedang mencoba build awal dari game kami, dan kami ingin Anda tahu bahwa apa yang Anda lihat ini hanyalah permulaan.
+
+Tim kami bekerja keras untuk meningkatkan pengalaman ini, dengan banyak fitur baru yang menarik dan peningkatan performa yang akan datang.
+
+Jika Anda menemukan game kami menarik dan menjanjikan, mohon pertimbangkan untuk menambahkannya ke <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">wishlist Anda di Steam</color></link></u>.
+
+Tindakan kecil ini sangat membantu kami dalam hal visibilitas dan menyebarkan informasi tentang game kami ke lebih banyak pemain seperti Anda.
+
+
+Nocebo Games
+","Beste speler,
+
+Je ervaart momenteel een vroege versie van ons spel, en we willen dat je weet dat wat je ziet slechts het begin is.
+
+Ons team werkt ijverig om deze ervaring te verbeteren, met veel spannende nieuwe functies en prestatieverbeteringen in het vooruitzicht.
+
+Als je ons spel boeiend en veelbelovend vindt, overweeg dan om het toe te voegen aan je <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">verlanglijstje op Steam</color></link></u>.
+
+Deze kleine actie helpt ons enorm in termen van zichtbaarheid en het verspreiden van het woord over ons spel bij meer spelers zoals jij.
+
+
+Nocebo Games
+","Kính gửi Người chơi,
+
+Bạn đang trải nghiệm phiên bản đầu tiên của trò chơi của chúng tôi, và chúng tôi muốn bạn biết rằng những gì bạn thấy chỉ là khởi đầu.
+
+Đội ngũ của chúng tôi đang làm việc không mệt mỏi để cải thiện trải nghiệm này, với nhiều tính năng mới hấp dẫn và cải thiện hiệu suất sắp tới.
+
+Nếu bạn thấy trò chơi của chúng tôi thú vị và đầy hứa hẹn, hãy xem xét thêm nó vào <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">danh sách ước muốn trên Steam của bạn</color></link></u>.
+
+Hành động nhỏ này giúp chúng tôi rất nhiều về mặt khả năng nhìn thấy và lan truyền thông tin về trò chơi của chúng tôi đến nhiều người chơi giống như bạn.
+
+
+Nocebo Games
+","친애하는 플레이어 여러분,
+
+현재 여러분은 저희 게임의 초기 빌드를 경험하고 계신데, 이것은 단지 시작에 불과하다는 것을 알려드리고 싶습니다.
+
+저희 팀은 이 경험을 향상시키기 위해 열심히 작업 중이며, 많은 흥미로운 새로운 기능과 성능 개선이 가까운 시일 내에 제공될 예정입니다.
+
+만약 여러분이 저희 게임을 매력적이고 유망하다고 느끼신다면, <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">스팀 위시리스트에 추가하는 것을</color></link></u> 고려해 주세요.
+
+이 작은 행동은 저희가 여러분과 같은 더 많은 플레이어에게 저희 게임을 알리는 데 큰 도움이 됩니다.
+
+
+
+Nocebo Games
+","亲爱的玩家，
+
+您当前体验的是我们游戏的早期版本，请知悉您所看到的只是开始。
+
+我们的团队正在努力提升这一体验，许多激动人心的新功能和性能提升即将到来。
+
+如果您认为我们的游戏引人入胜且充满希望，请考虑将其加入您在Steam上的<u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">愿望列表</color></link></u>。
+
+这个小小的举动对于提高我们的可见度以及向像您一样的更多玩家传播我们游戏的信息非常有帮助。
+
+
+Nocebo Games
+","親愛的玩家，
+
+您目前體驗的是我們遊戲的早期版本，請知曉您所看到的只是開始。
+
+我們的團隊正在努力提升這一體驗，許多令人興奮的新功能和性能提升即將來臨。
+
+如果您認為我們的遊戲引人入勝且充滿希望，請考慮將其加入您在Steam上的<u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">願望列表</color></link></u>。
+
+這個小小的舉動對於提高我們的可見度以及向像您一樣的更多玩家傳播我們遊戲的信息非常有幫助。
+
+
+Nocebo Games
+","Gerbiamas žaidėjau,
+
+Šiuo metu išbandote mūsų žaidimo ankstyvąją versiją, ir norime, kad žinotumėte, jog tai, ką matote, yra tik pradžia.
+
+Mūsų komanda sunkiai dirba, kad pagerintų šią patirtį, su daug naujų įdomių funkcijų ir našumo patobulinimų, kurie artėja.
+
+Jei mūsų žaidimas jums atrodo įtraukiantis ir turintis perspektyvos, prašome apsvarstyti galimybę jį pridėti prie savo <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">pageidavimų sąrašo Steam parduotuvėje</color></link></u>.
+
+Šis nedidelis veiksmas mums labai padeda didinti matomumą ir skleisti žinią apie mūsų žaidimą daugiau žaidėjų kaip jūs.
+
+
+Nocebo Games
+","Шановний гравець,
+
+Наразі ви маєте можливість ознайомитися з ранньою версією нашої гри, і ми хочемо, щоб ви знали, що це лише початок.
+
+Наша команда завзято працює над тим, щоб покращити цей досвід, і в найближчому майбутньому вас очікують нові захоплюючі функції та покращення продуктивності.
+
+Якщо ви вважаєте нашу гру захопливою та перспективною, будь ласка, розгляньте можливість додати її до свого <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">списку бажань на Steam</color></link></u>.
+
+Ця невелика дія значно допомагає нам у питанні видимості та розповсюдження інформації про нашу гру серед більшої кількості гравців, як ви.
+
+
+Nocebo Games
+","Cienījamais spēlētāj,
+
+Pašlaik Jūs izmēģināt mūsu spēles agrīno versiju, un mēs vēlamies, lai Jūs zināt, ka tas, ko redzat, ir tikai sākums.
+
+Mūsu komanda strādā nepagurstoši, lai uzlabotu šo pieredzi, un tuvākajā nākotnē ir gaidāmas daudzas aizraujošas jaunas funkcijas un veiktspējas uzlabojumi.
+
+Ja Jums mūsu spēle šķiet aizraujoša un daudzsološa, lūdzu apsveriet iespēju to pievienot savam <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">vēlmju sarakstam Steamā</color></link></u>.
+
+Šī maza darbība mums ļoti palīdz palielināt redzamību un izplatīt vārdu par mūsu spēli starp vairāk spēlētājiem, piemēram, Jums.
+
+
+Nocebo Games
+","प्रिय खिलाड़ी,
+
+आप इस समय हमारे गेम के प्रारंभिक निर्माण का अनुभव कर रहे हैं, और हम चाहते हैं कि आप जानें कि आप जो देख रहे हैं वह सिर्फ शुरुआत है।
+
+हमारी टीम इस अनुभव को बेहतर बनाने के लिए लगन से काम कर रही है, और आने वाले समय में कई रोमांचक नए फीचर्स और प्रदर्शन में सुधार होने वाले हैं।
+
+यदि आपको हमारा गेम आकर्षक और आशाजनक लगता है, तो कृपया इसे अपनी <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">Steam पर विशलिस्ट में जोड़ने</color></link></u> पर विचार करें।
+
+यह छोटी सी कार्रवाई हमें दृश्यता बढ़ाने और आपके जैसे अधिक खिलाड़ियों को हमारे गेम के बारे में बताने में बहुत मदद करती है।
+
+
+Nocebo Games
+","Αγαπητέ παίκτη,
+
+Αυτή τη στιγμή βιώνετε μια πρώιμη έκδοση του παιχνιδιού μας, και θέλουμε να ξέρετε ότι αυτό που βλέπετε είναι μόνο η αρχή.
+
+Η ομάδα μας εργάζεται σκληρά για να ενισχύσει αυτήν την εμπειρία, με πολλά συναρπαστικά νέα χαρακτηριστικά και βελτιώσεις στην απόδοση που πλησιάζουν.
+
+Αν βρίσκετε το παιχνίδι μας ενδιαφέρον και υποσχόμενο, παρακαλούμε σκεφτείτε να το προσθέσετε στην <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">λίστα επιθυμιών σας στο Steam</color></link></u>.
+
+Αυτή η μικρή ενέργεια μας βοηθάει πολύ όσον αφορά την ορατότητα και τη διάδοση της λέξης για το παιχνίδι μας σε περισσότερους παίκτες όπως εσείς.
+
+
+Nocebo Games
+","Caro jogador,
+
+Você está vivenciando uma versão inicial do nosso jogo, e queremos que você saiba que o que você vê é apenas o começo.
+
+Nossa equipe está trabalhando arduamente para aprimorar essa experiência, com muitos novos recursos empolgantes e melhorias de desempenho a caminho.
+
+Se você achar nosso jogo envolvente e promissor, por favor, considere adicioná-lo à sua <u><link="https://store.steampowered.com/app/2180890/Bunny_Game/"><color="lightblue">lista de desejos na Steam</color></link></u>.
+
+Essa pequena ação nos ajuda muito em termos de visibilidade e na divulgação do nosso jogo para mais jogadores como você.
+
+
+Nocebo Games
+"
